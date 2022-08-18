@@ -1,0 +1,2000 @@
+0	I think I just heard a jumbled confession.	A jumbled confession can only receive a jumbled absolution.
+1	I think I just heard a jumbled confession.	Riddling confession finds but riddling shrift.
+0	I can't wait for James Bond's daughter to come back.	I love rich Capulet's daughter.
+1	I can't wait for James Bond's daughter to come back.	Then plainly know my heart's dear love is set On the fair daughter of rich Capulet.
+0	I am not prepared for our love.	We're bound to each other in every possible way, except we need you to marry us.
+1	I am not prepared for our love.	As mine on hers, so hers is set on mine, And all combined, save what thou must combine By holy marriage.
+0	I wanna know about your ex.	I'll tell you more later about when and where we met, how we fell in love, and how we exchanged promises, but now I'm begging you : please, agree to marry us today.
+1	I wanna know about your ex.	When and where and how We met, we wooed and made exchange of vow, I'll tell thee as we pass, but this I pray : That thou consent to marry us today.
+0	Just received an email from my school saying that I have been accepted into St. Francis Xavier College!	Holy Saint Francis, this is a drastic change!
+1	Just received an email from my school saying that I have been accepted into St. Francis Xavier College!	Holy Saint Francis, what a change is here!
+0	I don't even remember what I liked about Rosaline, which is a sad thing.	Have you given up so quickly on Rosaline, whom you loved so much?
+1	I don't even remember what I liked about Rosaline, which is a sad thing.	Is Rosaline, whom thou didst love so dear, So soon forsaken?
+0	I just found out there are men who don't like it with their hearts.	Then young men love with their eyes, not with their hearts.
+1	I just found out there are men who don't like it with their hearts.	Young men's love then lies Not truly in their hearts, but in their eyes.
+0	I used to make groans in my head all the time.	The groans you used to make are still ringing in my old ears.
+1	I used to make groans in my head all the time.	The sun not yet thy sighs from heaven clears, Thy old groans ring yet in my ancient ears.
+0	I'm not even ashamed of my appearance today.	There's still a stain on your cheek from an old tear that hasn't been washed off yet.
+1	I'm not even ashamed of my appearance today.	Lo, here upon thy cheek the stain doth sit Of an old tear that is not washed off yet.
+0	I'm sad that I can't be me.	If you were ever yourself, and this sadness was yours, you and your sadness were all for Rosaline.
+1	I'm sad that I can't be me.	If e'er thou wast thyself and these woes thine, Thou and these woes were all for Rosaline.
+0	I have changed my mind. I am no longer a fan of the word " fuckboy ".	And now you've changed?
+1	I have changed my mind. I am no longer a fan of the word " fuckboy ".	And art thou changed?
+0	The only thing I can expect from women is for them to be faithful. That's the whole point.	Then repeat this after me : you can't expect women to be faithful when men are so unreliable.
+1	The only thing I can expect from women is for them to be faithful. That's the whole point.	Pronounce this sentence then : Women may fall when there's no strength in men.
+0	I'm always afraid my friends will find something to scold me with.	You scolded me often for loving Rosaline.
+1	I'm always afraid my friends will find something to scold me with.	Thou chid'st me oft for loving Rosaline.
+0	You scolded me often for loving Rosaline.	I scolded you for obsessing about her, not for loving her, my student.
+1	You scolded me often for loving Rosaline.	For doting, not for loving, pupil mine.
+0	You didn't tell me to bury my love.	And you told me to bury my love.
+1	You didn't tell me to bury my love.	And badest me bury love.
+0	I feel like I got rid of my girlfriend.	I didn't tell you to get rid of one love and replace her with another.
+1	I feel like I got rid of my girlfriend.	Not in a grave, To lay one in, another out to have.
+0	I'm gonna be so disappointed if the show doesn't have a new season of Greys.	Please, I beg you, don't scold me.
+1	I'm gonna be so disappointed if the show doesn't have a new season of Greys.	I pray thee, chide not.
+0	The other girl is cool and funny.	The other girl did not love me.
+1	The other girl is cool and funny.	The other did not so.
+0	I love how you thought I hated you before I said I love you a lot.	Oh, she knew very well that you were acting like you were in love without really knowing what love means.
+1	I love how you thought I hated you before I said I love you a lot.	Oh, she knew well Thy love did read by rote, that could not spell.
+0	This is not a good day for my brother.	But come on, inconsistent young man, come with me.
+1	This is not a good day for my brother.	But come, young waverer, come, go with me, In one respect I'll thy assistant be, For this alliance may so happy prove To turn your households'rancor to pure love.
+0	Let's go shopping. I'm bored.	Let's get out of here.
+1	Let's go shopping. I'm bored.	Oh, let us hence.
+0	Are you ready for this week's fantasy football?	I'm in a rush.
+1	Are you ready for this week's fantasy football?	I stand on sudden haste.
+0	Try to get back into sports or something.	Go wisely and slowly.
+1	Try to get back into sports or something.	Wisely and slow.
+0	The ones that stand up straight, the ones that fall down.	Those who rush stumble and fall.
+1	The ones that stand up straight, the ones that fall down.	They stumble that run fast.
+0	Mads - why is it always Romeo who ruins everything?	Where the devil can Romeo be?
+1	Mads - why is it always Romeo who ruins everything?	Where the devil should this Romeo be?
+0	Johnny Mac doesn't come home on Saturday, but he's coming home!	Didn't he come home last night?
+1	Johnny Mac doesn't come home on Saturday, but he's coming home!	Came he not home tonight?
+0	I'm really concerned that's what will happen.	Not to his father's house.
+1	I'm really concerned that's what will happen.	Not to his father's.
+0	How you get your friends to call in sick?	I asked a servant.
+1	How you get your friends to call in sick?	I spoke with his man.
+0	The fact of Rosaline is making me want to fight.	That fair-skinned, hard-hearted hussy, Rosaline is going to torment him until he goes insane.
+1	The fact of Rosaline is making me want to fight.	Why, that same pale hard-hearted wench, that Rosaline, Torments him so, that he will sure run mad.
+0	I have discovered that my brother has a great uncle named Tybalt.	Tybalt, old Capulet's nephew, has sent a letter to Romeo's father's house.
+1	I have discovered that my brother has a great uncle named Tybalt.	Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.
+0	The struggle of trying to go to sleep early.	I bet it's a challenge.
+1	The struggle of trying to go to sleep early.	A challenge, on my life.
+0	My first question to the team is will you answer the challenge?	Romeo will answer the challenge.
+1	My first question to the team is will you answer the challenge?	Romeo will answer it.
+0	Hey there, how did you get your letter to me?	Any man who knows how to write can answer a letter.
+1	Hey there, how did you get your letter to me?	Any man that can write may answer a letter.
+0	You know, why did I think you were the one responding to my email?	No, Romeo will respond to the letter's writer, telling him whether he accepts the challenge.
+1	You know, why did I think you were the one responding to my email?	Nay, he will answer the letter's master, how he dares, being dared.
+0	Poor Romeo, he was the only one who didn't die.	Oh, poor Romeo!
+1	Poor Romeo, he was the only one who didn't die.	Alas, poor Romeo!
+0	He needs to go head on with the other Night King.	Is he man enough at this point to face off with Tybalt?
+1	He needs to go head on with the other Night King.	And is he a man to encounter Tybalt?
+0	I'm so confused as to why I'm being attacked by a bunch of angry Tybalt fans.	Why, what's Tybalt's story?
+1	I'm so confused as to why I'm being attacked by a bunch of angry Tybalt fans.	Why, what is Tybalt?
+0	That's not why he was shot.	He knows what?
+1	That's not why he was shot.	The what?
+0	I can't believe they found their baby.	He looks skinny, like a dried herring without its eggs, and he hasn't got his girl.
+1	I can't believe they found their baby.	Without his roe, like a dried herring.
+0	What is with the blood and meat in my fridge?	O flesh, flesh, you've turned pale and weak like a fish.
+1	What is with the blood and meat in my fridge?	O flesh, flesh, how art thou fishified!
+0	The only thing left to do is get ready for work.	Now he's ready for
+1	The only thing left to do is get ready for work.	Now is he for the numbers that Petrarch flowed in.
+0	Good morning! Have a great day! :)	Good morning to you both.
+1	Good morning! Have a great day! :)	Good morrow to you both.
+0	I just found out that I faked you out.	What do you mean I faked you out?
+1	I just found out that I faked you out.	What counterfeit did I give you?
+0	It's not a slip, it's my official statement.	You gave us the slip, sir, the slip.
+1	It's not a slip, it's my official statement.	The slip, sir, the slip.
+0	You can't explain that!	Can't you understand what I'm saying?
+1	You can't explain that!	Can you not conceive?
+0	Which is better, The Right or The left?	The Right.
+1	Which is better, The Right or The left?	Nay, I am the very pink of courtesy.
+0	How do you guys feel about the new employer?	My employer is as good as yours.
+1	How do you guys feel about the new employer?	I serve as good a man as you.
+0	He's just another average-looking guy. I'm sorry you have to deal with him.	But he's not better than mine.
+1	He's just another average-looking guy. I'm sorry you have to deal with him.	No better.
+0	Walking in heels is like walking on clouds.	Well then.
+1	Walking in heels is like walking on clouds.	Well, sir.
+0	This kid is so cute.	You lie.
+1	This kid is so cute.	You lie.
+0	Remember when I was a freshman and thought I was a pro golfer?	Gregory, remember how to slash.
+1	Remember when I was a freshman and thought I was a pro golfer?	You know not what you do.
+0	You guys are all sooo mean and it's making me so sad.	What?
+1	You guys are all sooo mean and it's making me so sad.	What, art thou drawn among these heartless hinds?
+0	So who is going to break up this drama?	Come break this up, Benvolio.
+1	So who is going to break up this drama?	Come between us, good Benvolio.
+0	I'm not trying to fight you, I'm just trying to say you can't win.	I'm losing this duel of wits.
+1	I'm not trying to fight you, I'm just trying to say you can't win.	My wits faints.
+0	My body is sore, I can't continue this.	Keep going, keep going, or I'll declare myself the winner.
+1	My body is sore, I can't continue this.	Switch and spurs, switch and spurs, or I'll cry a match.
+0	I don't know why I always get followed by goose.	Was I even close to you in the chase for the goose?
+1	I don't know why I always get followed by goose.	Was I with you there for the goose?
+0	Can't believe I'm saying this but... I just ate the goose I made last night.	You were never with me for anything if you weren't there for the goose.
+1	Can't believe I'm saying this but... I just ate the goose I made last night.	Thou wast never with me for anything when thou wast not there for the goose.
+0	Wanna get a piece of my meat?	I'll bite you on the ear for that joke.
+1	Wanna get a piece of my meat?	I will bite thee by the ear for that jest.
+0	You're too kind, sir. I shall bite you.	No, good goose, don't bite me.
+1	You're too kind, sir. I shall bite you.	Nay, good goose, bite not.
+0	And what is the purpose of a joke?	Your joke is a very bitter apple.
+1	And what is the purpose of a joke?	Thy wit is a very bitter sweeting.
+0	The way you're laughing right now is a spicy sauce.	Your humor is a spicy sauce.
+1	The way you're laughing right now is a spicy sauce.	It is a most sharp sauce.
+0	If you have ever made sweet-pea soup you would know that it is much better without the milk.	Then isn't it just the right dish for a sweet goose?
+1	If you have ever made sweet-pea soup you would know that it is much better without the milk.	And is it not well served into a sweet goose?
+0	What is the joke?	Oh, that's a joke made out of leather that spreads itself thin, from the width of an inch to as fat as a yard.
+1	What is the joke?	Oh, here's a wit of cheveril, that stretches from an inch narrow to an ell broad!
+0	You stretch Your joke that Fatitri is a fat goose.	I stretch my joke for that word "fat." If you add that word to the word "goose, " it shows that you are a fat goose.
+1	You stretch Your joke that Fatitri is a fat goose.	I stretch it out for that word "broad, " which, added to the goose, proves thee far and wide a broad goose.
+0	It's funny how some people just can't take a joke.	Why, isn't all this joking better than groaning about love?
+1	It's funny how some people just can't take a joke.	Why, is not this better now than groaning for love?
+0	I think I'm the only person who hates Facebook.	Now you're sociable.
+1	I think I'm the only person who hates Facebook.	Now art thou sociable.
+0	Oh, I see the resemblance... I am the younger, better version of Romeo.	Now you're Romeo.
+1	Oh, I see the resemblance... I am the younger, better version of Romeo.	Now art thou Romeo.
+0	I am not a smart man.	Oh, you're wrong.
+1	I am not a smart man.	Thou wouldst else have made thy tale large.
+0	Are you cutting up the longer video now?	I would have made it short.
+1	Are you cutting up the longer video now?	Oh, thou art deceived.
+0	We should talk more about the matter at hand.	I had come to the deepest part of my tale, and I planned to say nothing more on the topic.
+1	We should talk more about the matter at hand.	I would have made it short, for I was come to the whole depth of my tale, and meant, indeed, to occupy the argument no longer.
+0	I haven't eaten in a while. I'm hungry and I want to go get breakfast.	Here's something good.
+1	I haven't eaten in a while. I'm hungry and I want to go get breakfast.	Here's goodly gear.
+0	What's the story behind the redhead guy and the black guy?	There's two, a man and a woman.
+1	What's the story behind the redhead guy and the black guy?	Two, two, a shirt and a smock.
+0	Who's just blown in!	Peter!
+1	Who's just blown in!	Peter!
+0	I wish someone was around to keep me company at work.	I'm at your service.
+1	I wish someone was around to keep me company at work.	Anon!
+0	So, I’ve decided to take to Twitter and get a fan. Does anyone want me as your fan?	Give me my fan, Peter.
+1	So, I’ve decided to take to Twitter and get a fan. Does anyone want me as your fan?	My fan, Peter.
+0	Good morning, my ladies.	Good morning, gentlemen.
+1	Good morning, my ladies.	God ye good morrow, gentlemen.
+0	Good afternoon, good sir. Have a great day.	Good afternoon, fair lady.
+1	Good afternoon, good sir. Have a great day.	God ye good e'en, fair gentlewoman.
+0	I'm up and ready to go to work. :)	Is it now afternoon?
+1	I'm up and ready to go to work. :)	Is it good e'en?
+0	Is it too early to start drinking?	It's not earlier than that, I tell you.
+1	Is it too early to start drinking?	Tis no less, I tell you, for the bawdy hand of the dial is now upon the prick of noon.
+0	I hate it when you're stuck in a conversation with someone and the whole time they're out of it...	The Get out of here!
+1	I hate it when you're stuck in a conversation with someone and the whole time they're out of it...	Out upon you!
+0	I'm not a manly man, but I'm not a dorky, either.	What kind of man are you?
+1	I'm not a manly man, but I'm not a dorky, either.	What a man are you?
+0	Sorry, I really thought you were a woman.	I'm a man, my lady, that God has made for himself to ruin.
+1	Sorry, I really thought you were a woman.	One, gentlewoman, that God hath made, himself to mar.
+0	It's hard to love someone that lies all the time.	I swear, you speak the truth.
+1	It's hard to love someone that lies all the time.	By my troth, it is well said.
+0	I have to find out what's going on with this old man.	For himself to ruin, " he says.
+1	I have to find out what's going on with this old man.	For himself to mar, " quoth he?
+0	Young Romeo doesn't want to go alone.	Gentlemen, can any of you tell me where I can find young Romeo?
+1	Young Romeo doesn't want to go alone.	Gentlemen, can any of you tell me where I may find the young Romeo?
+0	Gentlemen, can any of you tell me where I can find young Romeo?	I can tell you, but young Romeo will be older when you find him than he was when you started looking for him.
+1	Gentlemen, can any of you tell me where I can find young Romeo?	I can tell you, but young Romeo will be older when you have found him than he was when you sought him.
+0	Are you the youngest I've ever met by that name.	I am the youngest man by that name, because there is no one younger, or worse.
+1	Are you the youngest I've ever met by that name.	I am the youngest of that name, for fault of a worse.
+0	Is the worst well?	You speak well.
+1	Is the worst well?	You say well.
+0	I feel horrible and don't know what to do.	Is the worst well?
+1	I feel horrible and don't know what to do.	Yea, is the worst well?
+0	Just because he's white, isn't necessarily the best judge of character.	Very well taken, I believe, very wise.
+1	Just because he's white, isn't necessarily the best judge of character.	Very well took, i'faith, wisely, wisely.
+0	I'd rather her be a good girl than a pimp.	She will A pimp!
+1	I'd rather her be a good girl than a pimp.	She will indite him to some supper.
+0	I've always wondered why there's a big difference.	I've found it out.
+1	I've always wondered why there's a big difference.	So ho!
+0	I've found there's a big difference.	What have you found out?
+1	I've found there's a big difference.	What hast thou found?
+0	I'm so hungry and don't bake a cake the week.	Romeo, are you going to your father's for lunch?
+1	I'm so hungry and don't bake a cake the week.	Romeo, will you come to your father's?
+0	I wanna go to the beach, because I'm bored.	Let's go there.
+1	I wanna go to the beach, because I'm bored.	We'll to dinner, thither.
+0	Let's go there.	I'll follow after you.
+1	Let's go there.	I will follow you.
+0	How does one watch the whole debate?	He says more in one minute than he does in a whole month.
+1	How does one watch the whole debate?	A gentleman, Nurse, that loves to hear himself talk, and will speak more in a minute than he will stand to in a month.
+0	I'm going to be honest with you, it's time to humble him.	If he says anything against me, I'll humble him, even if he were stronger than he is, and twenty punks like him.
+1	I'm going to be honest with you, it's time to humble him.	An he speak any thing against me, I'll take him down, an he were lustier than he is, and twenty such Jacks.
+0	So can you do the whole thing by yourself?	If I can't do it myself, I'll find someone who can.
+1	So can you do the whole thing by yourself?	And if I can not, I'll find those that shall.
+0	This rat is about to start attacking me.	That dirty rat!
+1	This rat is about to start attacking me.	Scurvy knave!
+0	You have a boyfriend? Well then I guess your his.	I'm not one of his sluts.
+1	You have a boyfriend? Well then I guess your his.	I am none of his flirt-gills.
+0	You should be worried that one of your punk friends may have a knife.	I'm not one of his punk friends who carries a knife.
+1	You should be worried that one of your punk friends may have a knife.	I am none of his skains-mates.
+0	The fact that I actually had to use me for kicks is so sad.	I didn't see anybody use you for kicks.
+1	The fact that I actually had to use me for kicks is so sad.	I saw no man use you at his pleasure.
+0	So there is a spider on my bed...	If I had seen something like that, I would have quickly pulled out my weapon.
+1	So there is a spider on my bed...	If I had, my weapon should quickly have been out, I warrant you.
+0	You're really gonna try and break my neck in front of my friends? I can't let you.	Believe me, I'll draw my sword as quick as any other man if I see a fight starting and the law is on my side.
+1	You're really gonna try and break my neck in front of my friends? I can't let you.	I dare draw as soon as another man if I see occasion in a good quarrel and the law on my side.
+0	Are you angry about what just happened？	Now, I swear, I'm so angry that I'm shaking all over.
+1	Are you angry about what just happened？	Now, afore God, I am so vexed that every part about me quivers.
+0	I have a strong feeling that this cat is planning something bad.	That rotten scoundrel!
+1	I have a strong feeling that this cat is planning something bad.	Scurvy knave!
+0	I swear to you, You have a good heart, and believe me, I'll tell her that.	Nurse, give my regards to to your lady.
+1	I swear to you, You have a good heart, and believe me, I'll tell her that.	Nurse, commend me to thy lady and mistress.
+0	I don't know what I have, and she doesn't think I'm perfect.	I swear to you, You have a good heart, and believe me, I'll tell her that.
+1	I don't know what I have, and she doesn't think I'm perfect.	I protest unto thee, Good heart, and i'faith, I will tell her as much.
+0	What are you going to tell her, Nurse?	Lord, Lord, she'll be a happy woman.
+1	What are you going to tell her, Nurse?	Lord, Lord, she will be a joyful woman.
+0	She is ill and can't do something.	What are you going to tell her, Nurse?
+1	She is ill and can't do something.	What wilt thou tell her, Nurse?
+0	You always talk to me when I'm not looking.	You're not paying attention to me.
+1	You always talk to me when I'm not looking.	Thou dost not mark me.
+0	How do you even know if Friar Lawrence is married?	At Friar Lawrence's cell she can make confession and be married.
+1	How do you even know if Friar Lawrence is married?	And there she shall at Friar Lawrence'cell Be shrived and married.
+0	You can't go home because you are ill.	Wait good Nurse.
+1	You can't go home because you are ill.	And stay, good Nurse.
+0	I want to climb the rope ladder at the back of the abbey but I don't know where that is.	Within an hour, one of my men will come to you behind the abbey wall and give you a rope ladder.
+1	I want to climb the rope ladder at the back of the abbey but I don't know where that is.	Behind the abbey wall Within this hour my man shall be with thee And bring thee cords made like a tackled stair, Which to the high top-gallant of my joy Must be my convoy in the secret night.
+0	If you don't mind, I think I'd like to go home.	Goodbye.
+1	If you don't mind, I think I'd like to go home.	Farewell.
+0	I feel like I'm the only person who can't do anything right.	Be honest and helpful, and I'll repay you for your efforts.
+1	I feel like I'm the only person who can't do anything right.	Be trusty, and I'll quit thy pains.
+0	Wish I was as good at playing a game as my mistress.	Sing my praises to your mistress.
+1	Wish I was as good at playing a game as my mistress.	Commend me to thy mistress.
+0	I'm going to make some terrible decisions today.	May God in heaven bless you.
+1	I'm going to make some terrible decisions today.	Now God in heaven bless thee!
+0	I've been talking for an hour before you start your speech.	Now please listen, sir.
+1	I've been talking for an hour before you start your speech.	Hark you, sir.
+0	My dear... maybe... you seem to have some serious illness.	What do you have to say, my dear Nurse?
+1	My dear... maybe... you seem to have some serious illness.	What sayst thou, my dear Nurse?
+0	We want to know the secret.	Can your man keep a secret?
+1	We want to know the secret.	Is your man secret?
+0	Is this saying about two people？	Haven't you ever heard the saying, "Two can conspire to put one away"?
+1	Is this saying about two people？	Did you ne'er hear say, "Two may keep counsel, putting one away"?
+0	Will your man be soft on them?	I assure you, my man is as true as steel.
+1	Will your man be soft on them?	Warrant thee, my man's as true as steel.
+0	She's the most sweetest lady you'll ever meet.	Well, sir, my mistress is the sweetest lady.
+1	She's the most sweetest lady you'll ever meet.	Well, sir, my mistress is the sweetest lady., Lord, Lord!
+0	Why is she angry sometimes?	I make her angry sometimes by saying that Paris is more handsome than you are.
+1	Why is she angry sometimes?	I anger her sometimes and tell her that Paris is the properer man.
+0	I make her angry sometimes by saying that Paris is more handsome than you are.	But when I say so, I swear she turns white as a sheet.
+1	I make her angry sometimes by saying that Paris is more handsome than you are.	But, I'll warrant you, when I say so, she looks as pale as any clout in the versal world.
+0	Justin, I'm sorry to tell you that you have a heart attack.	Don't " Yes, Nurse, what about that?
+1	Justin, I'm sorry to tell you that you have a heart attack.	Doth not Ay, Nurse, what of that?
+0	Hey, what's your find about the name?	They both begin with the letter "R." Ah, you jokester, that's the dog's name.
+1	Hey, what's your find about the name?	Both with an Ah, mocker, that's the dog's name.
+0	My lady is so pretty I can't wait to marry her.	Give my compliments to your lady.
+1	My lady is so pretty I can't wait to marry her.	Commend me to thy lady.
+0	It's crazy. Has Michael Jordan hit a thousand times?	Yes, a thousand times.
+1	It's crazy. Has Michael Jordan hit a thousand times?	Ay, a thousand times., Peter!
+0	Ready for tomorrow's practice. Bring it on!	I'm ready.
+1	Ready for tomorrow's practice. Bring it on!	Before and apace.
+0	I hope my nurse is here!	I sent the Nurse at nine o'clock.
+1	I hope my nurse is here!	The clock struck nine when I did send the Nurse.
+0	Why can't the girl I love meet her boyfriend？	Maybe she can't find him.
+1	Why can't the girl I love meet her boyfriend？	Perchance she can not meet him.
+0	Can I come work for the Rangers, please?	That can't be.
+1	Can I come work for the Rangers, please?	That's not so.
+0	Miley Cyrus has been writing stories for one month.	Oh, she's slow!
+1	Miley Cyrus has been writing stories for one month.	Oh, she is lame!
+0	Love's messengers should be as warm as light.	Love's messengers should be thoughts, which fly ten times faster than sunbeams.
+1	Love's messengers should be as warm as light.	Love's heralds should be thoughts, Which ten times faster glide than the sun's beams, Driving back shadows over louring hills.
+0	I hope you don't mind my asking, but do you know Miss Haley is back?	That's three hours since nine o'clock, but she hasn't come back.
+1	I hope you don't mind my asking, but do you know Miss Haley is back?	Now is the sun upon the highmost hill Of this day's journey, and from nine till twelve Is three long hours, yet she is not come.
+0	She's too slow, isn't she?	If she was young and passionate, she'd move as fast as a ball.
+1	She's too slow, isn't she?	Had she affections and warm youthful blood, She would be as swift in motion as a ball.
+0	What you said is totally different from Bob.	My words would bounce her to my sweet love, and his words would bounce her back to me.
+1	What you said is totally different from Bob.	My words would bandy her to my sweet love, And his to me.
+0	The fact that some old people still act like they're getting bigger is kinda alarming.	But a lot of old people act like they're already dead, sluggish, slow, fat, and colorless, like lead.
+1	The fact that some old people still act like they're getting bigger is kinda alarming.	But old folks, many feign as they were dead, Unwieldy, slow, heavy, and pale as lead.
+0	Just had my first ever piece of Newsprinting from, I can't wait to bring it back!	Oh sweet Nurse, what news do you bring?
+1	Just had my first ever piece of Newsprinting from, I can't wait to bring it back!	O God, she comes., O honey Nurse, what news?
+0	My little brother is getting surgery on Friday and I cannot take it anymore.	Have you spoken to him?
+1	My little brother is getting surgery on Friday and I cannot take it anymore.	Hast thou met with him?
+0	I wish I was going to a party with my best friend.	Send your man away.
+1	I wish I was going to a party with my best friend.	Send thy man away.
+0	Just got off the train and there's a fire at my gate, I'm scared.	Peter, wait for me at the gate.
+1	Just got off the train and there's a fire at my gate, I'm scared.	Peter, stay at the gate.
+0	I am so tired, my body hurts so much.	Now, good sweet Nurse, Oh Lord, why do you look so sad?
+1	I am so tired, my body hurts so much.	Now, good sweet Nurse, O Lord, why look'st thou sad?
+0	I have a feeling the news is going to be a bit sad.	Even if the news is sad, tell me with a smile on your face.
+1	I have a feeling the news is going to be a bit sad.	Though news be sad, yet tell them merrily.
+0	Why don't you feel happy about the good news I said?	If the news is good, you're ruining the sweet news by playing a trick with a sour face like that.
+1	Why don't you feel happy about the good news I said?	If good, thou shamest the music of sweet news By playing it to me with so sour a face.
+0	Do you feel all right？	I am tired.
+1	Do you feel all right？	I am aweary.
+0	I'm bored, can you talk to me?	Leave me alone for a minute.
+1	I'm bored, can you talk to me?	Give me leave awhile.
+0	Today's competition includes boxing.	Oh my, my bones ache so much.
+1	Today's competition includes boxing.	Fie, how my bones ache!
+0	What do you want with bones and news?	I wish you had my bones, and I had your news.
+1	What do you want with bones and news?	I would thou hadst my bones and I thy news.
+0	Can I go now? I just want to sleep for a bit.	Can't you wait for a moment?
+1	Can I go now? I just want to sleep for a bit.	Can you not stay awhile?
+0	We need to be faster.	Don't you see that I'm out of breath?
+1	We need to be faster.	Do you not see that I am out of breath?
+0	Don't you see that I'm out of breath?	How can you be out of breath when you have enough breath to tell me that you're out of breath?
+1	Don't you see that I'm out of breath?	How art thou out of breath when thou hast breath To say to me that thou art out of breath?
+0	The media is still pretending there is no new evidence of Trump ever collating with Russia.	The excuse you make to delay the news is longer than the news itself.
+1	The media is still pretending there is no new evidence of Trump ever collating with Russia.	The excuse that thou dost make in this delay Is longer than the tale thou dost excuse.
+0	I am so happy I made $ 1 today.	Is the news good or bad?
+1	I am so happy I made $ 1 today.	Is thy news good, or bad?
+0	It's a good thing I'm not good at physics.	Answer that question.
+1	It's a good thing I'm not good at physics.	Answer to that.
+0	I'm on episode 7 of the maze runner and i'm really liking it so far.	Tell me if it's good or bad, and I'll wait for the details.
+1	I'm on episode 7 of the maze runner and i'm really liking it so far.	Say either, and I'll stay the circumstance.
+0	Can't wait until I can eat healthy again before Christmas.	Tell me so I can be satisfied.
+1	Can't wait until I can eat healthy again before Christmas.	Let me be satisfied.
+0	It's going to be a long, long movie.	Is it good or bad?
+1	It's going to be a long, long movie.	Is 't good or bad?
+0	I decided to watch the finale tonight.	Well, you have made a foolish choice.
+1	I decided to watch the finale tonight.	Well, you have made a simple choice.
+0	I don't want a guy who's not gonna be a good father.	You don't know how to pick a man.
+1	I don't want a guy who's not gonna be a good father.	You know not how to choose a man.
+0	Romeo will always be the best bond.	Romeo?
+1	Romeo will always be the best bond.	Romeo!
+0	Is he a polite man and great boyfriend.	He's not the most polite man in the world, but, believe me, he's gentle as a lamb.
+1	Is he a polite man and great boyfriend.	He is not the flower of courtesy, but, I'll warrant him, as gentle as a lamb.
+0	I want do some homework and go to bed.	Well, do what you want.
+1	I want do some homework and go to bed.	Go thy ways, wench.
+0	What do I need to do for you?	Be good.
+1	What do I need to do for you?	Serve God.
+0	I just want to go home and snuggle in bed.	Have you had lunch yet?
+1	I just want to go home and snuggle in bed.	What, have you dined at home?
+0	Have you been having lunch yet?	No, I haven't had lunch.
+1	Have you been having lunch yet?	No, no.
+0	I didn't get to go to school.	Everything you told me I already knew.
+1	I didn't get to go to school.	But all this did I know before.
+0	I'm so tired of hearing about your husband.	What does he say about our marriage?
+1	I'm so tired of hearing about your husband.	What says he of our marriage?
+0	My head is pounding.	What about that?
+1	My head is pounding.	What of that?
+0	How do you feel?	My head is pounding.
+1	How do you feel?	My back a't'other side.
+0	My back aches so much man.	My back aches too,
+1	My back aches so much man.	Ah, my back, my back!
+0	This is one of the worse pains I've ever been in.	Believe me, I'm sorry you're in pain.
+1	This is one of the worse pains I've ever been in.	I'faith, I am sorry that thou art not well.
+0	Romeo came to talk to me today.	Sweet, sweet, sweet Nurse, tell me, what did my love Romeo say?
+1	Romeo came to talk to me today.	Sweet, sweet, sweet Nurse, tell me, what says my love?
+0	I love my mother more than life itself.	Your love says, like an honorable gentleman, who is courteous, kind, handsome, and, I believe, virtuous, where is your mother?
+1	I love my mother more than life itself.	Your love says, like an honest gentleman, and a courteous, and a kind, and a handsome, and, I warrant, a virtuous, Where is your mother?
+0	Your mother is not in the room right now.	Where is my mother?
+1	Your mother is not in the room right now.	Where is my mother?
+0	My mom just asked me if I want to come inside with her?	Why, she's inside.
+1	My mom just asked me if I want to come inside with her?	Why, she is within.
+0	I can't find strabo, and he's gone.	Where else would she be?
+1	I can't find strabo, and he's gone.	Where should she be?
+0	I'm more concerned with my future husband than anything else.	Your answer is so strange!
+1	I'm more concerned with my future husband than anything else.	How oddly thou repliest!
+0	What is my love doing?	Your love says, like an honorable gentleman, 'Where is your mother?
+1	What is my love doing?	Your love says, like an honest gentleman, 'Where is your mother?
+0	I hate when people ask where my mother is.	Are you this impatient?
+1	I hate when people ask where my mother is.	O God's lady dear, Are you so hot?
+0	That guy in the white shirt is gorgeous.	Come on, you're being ridiculous!
+1	That guy in the white shirt is gorgeous.	Marry, come up, I trow.
+0	You need to reuse the medicine on time.	Is this the cure for my aching bones?
+1	You need to reuse the medicine on time.	Is this the poultice for my aching bones?
+0	I've accidentally deleted a few tweet messages.	From now on, take care of your messages yourself.
+1	I've accidentally deleted a few tweet messages.	Henceforward do your messages yourself.
+0	I was scared out of control by a girl.	You're making such a fuss.
+1	I was scared out of control by a girl.	Here's such a coil.
+0	Romeo and Juliet talked for a long time.	Come on, what did Romeo say?
+1	Romeo and Juliet talked for a long time.	Come, what says Romeo?
+0	Who wants to go out and confess tomorrow with me?	Do you have permission to go out and take confession today?
+1	Who wants to go out and confess tomorrow with me?	Have you got leave to go to shrift today?
+0	Will you marry me?	I do.
+1	Will you marry me?	I have.
+0	Friar Lawrence's cell alarm goes off.	Then hurry up and rush over to Friar Lawrence's cell.
+1	Friar Lawrence's cell alarm goes off.	Then hie you hence to Friar Lawrence's cell.
+0	I want to be a wife.	There's a husband there who's waiting to make you his wife.
+1	I want to be a wife.	There stays a husband to make you a wife.
+0	What do you see about my cheeks?	Now I see the blood rushing to your cheeks.
+1	What do you see about my cheeks?	Now comes the wanton blood up in your cheeks.
+0	What the heck has happened? I blush.	You blush bright red as soon as you hear any news.
+1	What the heck has happened? I blush.	They'll be in scarlet straight at any news.
+0	Where can I go to repent?	Go to the church.
+1	Where can I go to repent?	Hie you to church.
+0	My love will use this light well.	Your love will use it to climb up to your window while it's dark.
+1	My love will use this light well.	I must another way To fetch a ladder, by the which your love Must climb a bird's nest soon when it is dark.
+0	The game is about to start!	Go.
+1	The game is about to start!	Go.
+0	What are you going to do?	I'll go to lunch.
+1	What are you going to do?	I'll to dinner.
+0	Sitting in my cell at work. Who wants to go get me some food?	You go to Friar Lawrence's cell.
+1	Sitting in my cell at work. Who wants to go get me some food?	Hie you to the cell.
+0	There's a fair few people who don't want to hear what you have to say.	I'm only trying to keep the peace.
+1	There's a fair few people who don't want to hear what you have to say.	I do but keep the peace.
+0	What are you doing? This is my weapon.	Either put away your sword or use it to help me stop this fight.
+1	What are you doing? This is my weapon.	Put up thy sword, Or manage it to part these men with me.
+0	There's a reason why Peace is the word.	I hate the word peace like I hate hell, all Montagues, and you.
+1	There's a reason why Peace is the word.	I hate the word, As I hate hell, all Montagues, and thee.
+0	I'm not a cowardly person, but I'm willing to go out in a fight.	Let's go at it, coward!
+1	I'm not a cowardly person, but I'm willing to go out in a fight.	Have at thee, coward!
+0	What weapon should I use to hit them?	Use your clubs and spears!
+1	What weapon should I use to hit them?	Clubs, bills, and partisans!
+0	I hate when people don't call me back.	Hit them!
+1	I hate when people don't call me back.	Strike!
+0	My boys hope to beat Pompey within the league.	Beat them down!
+1	My boys hope to beat Pompey within the league.	Beat them down!
+0	The Red Sox are the best team in baseball.	Down with the Capulets!
+1	The Red Sox are the best team in baseball.	Down with the Capulets!
+0	The Montagues were a huge deal.	Down with the Montagues!
+1	The Montagues were a huge deal.	Down with the Montagues!
+0	There's something strange about my scream.	What's this noise?
+1	There's something strange about my scream.	What noise is this?
+0	What do you want the last time you see the queen?	I want my sword.
+1	What do you want the last time you see the queen?	My sword, I say!
+0	What is old Montague doing?	Old Montague is here, and he's waving his sword around just to make me mad.
+1	What is old Montague doing?	Old Montague is come, And flourishes his blade in spite of me.
+0	I hurt your friend!	Capulet, you villain!
+1	I hurt your friend!	Thou villain Capulet!
+0	I'm not taking any steps towards an enemy.	You're not taking one step toward an enemy.
+1	I'm not taking any steps towards an enemy.	Thou shalt not stir one foot to seek a foe.
+0	You have a job interview at 7 am.	Wish me luck.
+1	You have a job interview at 7 am.	Hie to high fortune!
+0	Happy Birthday, have a great day!	Thank you, dear Nurse.
+1	Happy Birthday, have a great day!	Honest Nurse, farewell.
+0	If you like it here, go to the city.	Amen, amen.
+1	If you like it here, go to the city.	Amen, amen.
+0	I wish I could give you a hand with your misfortunes.	But whatever misfortunes occur, they can't ruin the joy I feel with one look at her.
+1	I wish I could give you a hand with your misfortunes.	But come what sorrow can, It can not countervail the exchange of joy That one short minute gives me in her sight.
+0	Love in moderation is the key to long-lasting love.	Therefore, love each other in moderation.
+1	Love in moderation is the key to long-lasting love.	Therefore love moderately.
+0	Is love each other in moderation important?	That is the key to long-lasting love.
+1	Is love each other in moderation important?	Long love doth so.
+0	Would you like to drive slower or faster?	Too fast is as bad as too slow.
+1	Would you like to drive slower or faster?	Too swift arrives as tardy as too slow.
+0	Is that lady here?	Here comes the lady.
+1	Is that lady here?	Here comes the lady.
+0	She is light footstep when she dances.	Oh, a footstep as light as hers will never endure the rocky road of life.
+1	She is light footstep when she dances.	Oh, so light a foot Will ne'er wear out the everlasting flint.
+0	Getting paid to play football is so satisfying.	That's how flimsy and unreal pleasure is.
+1	Getting paid to play football is so satisfying.	Good even to my ghostly confessor.
+0	The girl is making you a pizza rolls and they are so good.	Romeo will thank you, my girl, for both of us.
+1	The girl is making you a pizza rolls and they are so good.	Romeo shall thank thee, daughter, for us both.
+0	Romeo will thank you, my girl, for both of us.	I'll give him equal thanks, so we're even.
+1	Romeo will thank you, my girl, for both of us.	As much to him, else is his thanks too much.
+0	You know you're surrounded by thought.	I can imagine more than I can say, I have more on my mind than words.
+1	You know you're surrounded by thought.	Conceit, more rich in matter than in words, Brags of his substance, not of ornament.
+0	How long does it take us to finish this job?	Come, come with me, and we'll do the job quickly.
+1	How long does it take us to finish this job?	Come, come with me, and we will make short work.
+0	I just remembered that you have to write two papers a day.	I'm begging you, good Mercutio, let's call it a day.
+1	I just remembered that you have to write two papers a day.	I pray thee, good Mercutio, let's retire.
+0	You're a fan of one of those guys.	Am I really like one of those guys?
+1	You're a fan of one of those guys.	Am I like such a fellow?
+0	You can't say I'm angry when I'm in the mood.	Come on, you can be as angry as any guy in Italy when you're in the mood.
+1	You can't say I'm angry when I'm in the mood.	Come, come, thou art as hot a Jack in thy mood as any in Italy, and as soon moved to be moody, and as soon moody to be moved.
+0	If there were two men like you, pretty soon there'd be none because the two of you would kill each other.	And what about that?
+1	If there were two men like you, pretty soon there'd be none because the two of you would kill each other.	And what to?
+0	I'm sure there's a few men like me out there.	If there were two men like you, pretty soon there'd be none because the two of you would kill each other.
+1	I'm sure there's a few men like me out there.	Nay, an there were two such, we should have none shortly, for one would kill the other.
+0	If a man had a beard, guess what I would do?	You would fight with a man if he had one more whisker or one less whisker in his beard than you have in your beard.
+1	If a man had a beard, guess what I would do?	Thou, why, thou wilt quarrel with a man that hath a hair more or a hair less in his beard than thou hast.
+0	You know what's cool? Having hazelnut- colored eyes.	You'll fight with a man who's cracking nuts just because you have hazelnut-colored eyes.
+1	You know what's cool? Having hazelnut- colored eyes.	Thou wilt quarrel with a man for cracking nuts, having no other reason but because thou hast hazel eyes.
+0	I just want to fight. And to see if I can win by fighting.	Only you would look for a fight like that.
+1	I just want to fight. And to see if I can win by fighting.	What eye but such an eye would spy out such a quarrel?
+0	My head has fought so much today	Your head is as full of fights as an egg is full of yolk, but your head has been beaten like scrambled eggs from so much fighting.
+1	My head has fought so much today	Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarreling.
+0	What did I do after drinking too much yesterday?	You started a fight with a man who coughed in the street because he woke up a dog that was sleeping in the sun.
+1	What did I do after drinking too much yesterday?	Thou hast quarreled with a man for coughing in the street because he hath wakened thy dog that hath lain asleep in the sun.
+0	I don't have to wear a suit every week for one of my classes.	Didn't you argue it out with your tailor for wearing one of his new suits before the right season?
+1	I don't have to wear a suit every week for one of my classes.	Didst thou not fall out with a tailor for wearing his new doublet before Easter?
+0	I tie new shoes with old laces.	And with another for tying the new shoes he made with old laces?
+1	I tie new shoes with old laces.	With another, for tying his new shoes with old ribbon?
+0	I wish I had the restraint to not take someone's right to their.	And yet you're the one who wants to teach me about restraint!
+1	I wish I had the restraint to not take someone's right to their.	And yet thou wilt tutor me from quarreling!
+0	I have the habit of constantly fighting with myself.	If I were in the habit of fighting the way you are, my life insurance rates would be sky high.
+1	I have the habit of constantly fighting with myself.	An I were so apt to quarrel as thou art, any man should buy the fee simple of my life for an hour and a quarter.
+0	If I were in the habit of fighting the way you are, my life insurance rates would be sky high.	Your life insurance?
+1	If I were in the habit of fighting the way you are, my life insurance rates would be sky high.	The fee simple?
+0	You were all wrong about the Falcons losing.	That's foolish.
+1	You were all wrong about the Falcons losing.	O simple!
+0	I'm excited for the Capulets to play tonight.	Oh great, here come the Capulets.
+1	I'm excited for the Capulets to play tonight.	By my head, here comes the Capulets.
+0	I would like to apologize for the delay in posting this picture. I was sleeping.	Well, well, I don't care.
+1	I would like to apologize for the delay in posting this picture. I was sleeping.	By my heel, I care not.
+0	Where should your things go?	Put it together with something else.
+1	Where should your things go?	Couple it with something.
+0	This word "victory" full of strength.	Make it a word and a blow.
+1	This word "victory" full of strength.	Make it a word and a blow.
+0	Are you ready for the army?	You'll find me ready enough to do that, sir, if you give me a reason.
+1	Are you ready for the army?	You shall find me apt enough to that, sir, an you will give me occasion.
+0	You'll find me ready enough to do that, sir, if you give me a reason.	Can't you find a reason without my giving you one?
+1	You'll find me ready enough to do that, sir, if you give me a reason.	Could you not take some occasion without giving?
+0	We can just hang out and have a good time.	Mercutio, you hang out with Romeo.
+1	We can just hang out and have a good time.	Mercutio, thou consort'st with Romeo.
+0	I'm bored, but you can hang out.	Hang out? " Who do you think we are, musicians in a band?
+1	I'm bored, but you can hang out.	What, dost thou make us minstrels?
+0	Are you musicians?	If we look like musicians to you, you can expect to hear nothing but noise.
+1	Are you musicians?	An thou make minstrels of us, look to hear nothing but discords.
+0	Either go someplace private, or talk it over rationally, or else just go away.	We're talking here in a public place.
+1	Either go someplace private, or talk it over rationally, or else just go away.	We talk here in the public haunt of men.
+0	I have no idea what to do anymore.	Either go someplace private, or talk it over rationally, or else just go away.
+1	I have no idea what to do anymore.	Either withdraw unto some private place, And reason coldly of your grievances, Or else depart.
+0	I was waiting on you to come out.	Out here everybody can see us.
+1	I was waiting on you to come out.	Here all eyes gaze on us.
+0	The men watch me and I'm just here like a joker.	Men's eyes were made to see things, so let them watch.
+1	The men watch me and I'm just here like a joker.	Men's eyes were made to look and let them gaze.
+0	Would you like to move to Canada with me?	I won't move to please anybody.
+1	Would you like to move to Canada with me?	I will not budge for no man's pleasure, I.
+0	I'm sorry I'm so sad. I'm in a really bad place right now.	Well, may peace be with you.
+1	I'm sorry I'm so sad. I'm in a really bad place right now.	Well, peace be with you, sir.
+0	I really hope you have your man at your life.	Here comes my man, the man I'm looking for.
+1	I really hope you have your man at your life.	Here comes my man.
+0	My man Sam Bradford is just awful.	He's not your man.
+1	My man Sam Bradford is just awful.	But I'll be hanged, sir, if he wear your livery.
+0	How can you love this?	Tybalt, I have a reason to love you that lets me put aside the rage I should feel and excuse that insult.
+1	How can you love this?	Tybalt, the reason that I have to love thee Doth much excuse the appertaining rage To such a greeting.
+0	You are a villain.	I am no villain.
+1	You are a villain.	Villain am I none.
+0	We're going to the playground.	So, goodbye.
+1	We're going to the playground.	Therefore, farewell.
+0	Who is calling, please?	I can tell that you don't know who I am.
+1	Who is calling, please?	I see thou know'st me not.
+0	I'm so sorry for your unfortunate experiences.	Boy, your words can't excuse the harm you've done to me.
+1	I'm so sorry for your unfortunate experiences.	Boy, this shall not excuse the injuries That thou hast done me.
+0	How should I start fighting now?	So now turn and draw your sword.
+1	How should I start fighting now?	Therefore turn and draw.
+0	The Capulet sounds amazing. What you said has some effect.	And so, good Capulet, which is a name I love like my own name, you should be satisfied with what I say.
+1	The Capulet sounds amazing. What you said has some effect.	And so, good Capulet, which name I tender As dearly as my own, be satisfied.
+0	We bully them into calm submission.	This calm submission is dishonorable and vile.
+1	We bully them into calm submission.	O calm dishonourable, vile submission!
+0	Can we take a moment to talk about?	What do you want from me?
+1	Can we take a moment to talk about?	What wouldst thou have with me?
+0	Can I have your sword? I've been looking for it for like 20 minutes.	Will you pull your sword out of its sheath?
+1	Can I have your sword? I've been looking for it for like 20 minutes.	Will you pluck your sword out of his pilcher by the ears?
+0	It is a prudent thing to pull a sword.	Hurry up, or I'll smack you on the ears with my sword before you have yours drawn.
+1	It is a prudent thing to pull a sword.	Make haste, lest mine be about your ears ere it be out.
+0	I have won 10 games in a row.	I'll fight you.
+1	I have won 10 games in a row.	I am for you.
+0	My sword is out of its sheath.	Noble Mercutio, put your sword away.
+1	My sword is out of its sheath.	Gentle Mercutio, put thy rapier up.
+0	It's raining here, we're going home.	Let's get away, Tybalt.
+1	It's raining here, we're going home.	Away, Tybalt.
+0	Why are you crying here?	I've been hurt.
+1	Why are you crying here?	I am hurt.
+0	The plague must exist at all times.	May a plague curse both your families.
+1	The plague must exist at all times.	A plague o'both your houses!
+0	Have you finished your thesis?	I'm finished.
+1	Have you finished your thesis?	I am sped.
+0	He get away at night.	Did he get away clean?
+1	He get away at night.	Is he gone and hath nothing?
+0	I've been hurt.	What, are you hurt?
+1	I've been hurt.	What, art thou hurt?
+0	We only had one day off.	But it's enough.
+1	We only had one day off.	Marry, 'tis enough.
+0	Everyone’s pages are here.	Where is my page?
+1	Everyone’s pages are here.	Where is my page?, Go, villain, fetch a surgeon.
+0	I'm afraid to make friends.	Have courage, man.
+1	I'm afraid to make friends.	Courage, man.
+0	Is my wound open and can't be recovered?	The wound can't be that bad.
+1	Is my wound open and can't be recovered?	The hurt can not be much.
+0	This space does not seem to be very large.	No, it's not as deep as a well, or as wide as a church door, but it's enough.
+1	This space does not seem to be very large.	No, 'tis not so deep as a well nor so wide as a church-door, but 'tis enough, 'twill serve.
+0	You look very weak and you will be dying.	Ask for me tomorrow, and you'll find me in a grave.
+1	You look very weak and you will be dying.	Ask for me tomorrow, and you shall find me a grave man.
+0	So done with this world, for real.	I'm done for in this world, I believe.
+1	So done with this world, for real.	I am peppered, I warrant, for this world.
+0	What's happening in our houses?	May a plague strike both your houses.
+1	What's happening in our houses?	A plague o'both your houses!
+0	Why do you have so many scratches?	I can't believe that dog, that rat, that mouse, that cat could scratch me to death!
+1	Why do you have so many scratches?	Zounds, a dog, a rat, a mouse, a cat to scratch a man to death!
+0	Why the hell did you come in between us?	That braggart, punk villain who fights like he learned swordsmanship from a manual!
+1	Why the hell did you come in between us?	A braggart, a rogue, a villain that fights by the book of arithmetic!
+0	You immediately stop, shake hands and make peace.	Why the hell did you come in between us?
+1	You immediately stop, shake hands and make peace.	Why the devil came you between us?
+0	How did he truck you?	He struck me from under your arm.
+1	How did he truck you?	I was hurt under your arm.
+0	You are commendable for solving this problem in your own way.	I thought it was the right thing to do.
+1	You are commendable for solving this problem in your own way.	I thought all for the best.
+0	How about we go shopping in the wild?	Take me inside some house, Benvolio, or I'll pass out.
+1	How about we go shopping in the wild?	Help me into some house, Benvolio, Or I shall faint.
+0	The plague is bad.	May a plague strike both your families!
+1	The plague is bad.	A plague o'both your houses!
+0	Why do you hate them so much?	They've turned me into food for worms.
+1	Why do you hate them so much?	They have made worms'meat of me.
+0	Curse your families!	I'm done for.
+1	Curse your families!	I have it, And soundly too.
+0	You will suffer retribution if you lie.	Curse your families!
+1	You will suffer retribution if you lie.	Your houses!
+0	How is Mercutio's body?	Oh Romeo, Romeo, brave Mercutio is dead!
+1	How is Mercutio's body?	O Romeo, Romeo, brave Mercutio is dead!
+0	That Tybalt guy really just ran into my car.	Here comes the furious Tybalt back again.
+1	That Tybalt guy really just ran into my car.	Here comes the furious Tybalt back again.
+0	I'm glad you finally found out that Carlos is alive and well.	He's alive and victorious, and Mercutio's dead?
+1	I'm glad you finally found out that Carlos is alive and well.	Alive in triumph, and Mercutio slain!
+0	Do you have to go with the hot guy from The Vamps?	Either you, or I, or both of us have to go with him.
+1	Do you have to go with the hot guy from The Vamps?	Either thou or I, or both, must go with him.
+0	I hung out with him.	Wretched boy, you hung out with him here, and you're going to go to heaven with him.
+1	I hung out with him.	Thou, wretched boy, that didst consort him here Shalt with him hence.
+0	Is this fight important to you?	This fight will decide who dies.
+1	Is this fight important to you?	This shall determine that.
+0	I'm going to stay here today.	Romeo, get out of here.
+1	I'm going to stay here today.	Romeo, away, be gone!
+0	What is going on with the citizens and Tybalt?	The citizens are around, and Tybalt is dead.
+1	What is going on with the citizens and Tybalt?	The citizens are up, and Tybalt slain.
+0	The amount of times I've missed my train from Stranraer to Chester is unreal.	Don't stand there shocked.
+1	The amount of times I've missed my train from Stranraer to Chester is unreal.	Stand not amazed.
+0	I just wanna be a part of some crime gang.	The Prince will give you the death penalty if you get caught.
+1	I just wanna be a part of some crime gang.	The Prince will doom thee death If thou art taken.
+0	I'm so tired of all this.	So get out of here!
+1	I'm so tired of all this.	Hence, be gone, away!
+0	I've been waiting here all day.	Why are you waiting?
+1	I've been waiting here all day.	Why dost thou stay?
+0	Who's the guy in the red shirt with the glasses that looks like?	The man who killed Mercutio, which way did he go?
+1	Who's the guy in the red shirt with the glasses that looks like?	Which way ran he that killed Mercutio?
+0	I saw the murderer run away.	Tybalt, that murderer, which way did he run?
+1	I saw the murderer run away.	Tybalt, that murderer, which way ran he?
+0	How is Tybalt?	Tybalt is lying over there.
+1	How is Tybalt?	There lies that Tybalt.
+0	I didn't want to tell you this secret.	Speak, nephew.
+1	I didn't want to tell you this secret.	Speak, nephew.
+0	Where are the evil men who started this fight?	Were you here when it started?
+1	Where are the evil men who started this fight?	Were you by when it began?
+0	Oh, noble prince, I can tell you everything about the unfortunate circumstances of this deadly fight.	Where are the evil men who started this fight?
+1	Oh, noble prince, I can tell you everything about the unfortunate circumstances of this deadly fight.	Where are the vile beginners of this fray?
+0	Tell me the details of this deadly fight.	Oh, noble prince, I can tell you everything about the unfortunate circumstances of this deadly fight.
+1	Tell me the details of this deadly fight.	O noble prince, I can discover all The unlucky manage of this fatal brawl.
+0	What happened to them just now?	He killed your relative, brave Mercutio, and then young Romeo killed him.
+1	What happened to them just now?	There lies the man, slain by young Romeo, That slew thy kinsman, brave Mercutio.
+0	Who is Tybalt?	Tybalt was my nephew!
+1	Who is Tybalt?	Tybalt, my cousin!
+0	I know it's late, but was Eric the brother of yours?	He was my brother's son!
+1	I know it's late, but was Eric the brother of yours?	O my brother's child!
+0	Dawson is my cousin.	Oh cousin, cousin!
+1	Dawson is my cousin.	O cousin, cousin!
+0	You've got to be kidding me, I'm going to beat this guy in a fistfight.	Benvolio, who started this fight?
+1	You've got to be kidding me, I'm going to beat this guy in a fistfight.	Benvolio, who began this bloody fray?
+0	What Romeo did to them?	Romeo cried out, "Stop, my friends.
+1	What Romeo did to them?	Romeo, he cries aloud, "Hold, friends!
+0	Didn't I ask you to rescue Tybalt?	Before I could break up the fight, Tybalt was killed.
+1	Didn't I ask you to rescue Tybalt?	But by and by comes back to Romeo, Who had but newly entertained revenge, And to 't they go like lightning, for ere I Could draw to part them was stout Tybalt slain.
+0	Tybalt didn't even get to Romeo.	Romeo ran away when Tybalt fell dead.
+1	Tybalt didn't even get to Romeo.	And, as he fell, did Romeo turn and fly.
+0	Hey! I think I figured out who the last Montague was. It was Benvolio, a Roman general.	Benvolio is part of the Montague family.
+1	Hey! I think I figured out who the last Montague was. It was Benvolio, a Roman general.	This is the truth, or let Benvolio die.
+0	There were twenty Montagues fighting in this awful riot, and together those twenty could only kill one man.	He's not telling the truth.
+1	There were twenty Montagues fighting in this awful riot, and together those twenty could only kill one man.	He speaks not true.
+0	How many Montagues do you have to kill to make a bloodbath?	There were twenty Montagues fighting in this awful riot, and together those twenty could only kill one man.
+1	How many Montagues do you have to kill to make a bloodbath?	Some twenty of them fought in this black strife, And all those twenty could but kill one life.
+0	I hope I can do something for you.	You, Prince, are the man who can give me justice.
+1	I hope I can do something for you.	I beg for justice, which thou, Prince, must give.
+0	God, what did Romeo do?	Romeo killed Tybalt.
+1	God, what did Romeo do?	Romeo slew Tybalt.
+0	Romeo killed Tybalt.	Romeo must die.
+1	Romeo killed Tybalt.	Romeo must not live.
+0	Mercutio was my first love. I'm so proud of him, and what he accomplished as a result.	Who should now pay the price for Mercutio's life?
+1	Mercutio was my first love. I'm so proud of him, and what he accomplished as a result.	Who now the price of his dear blood doth owe?
+0	Bran's death was an example of justice.	His crime did justice's job by taking Tybalt's life.
+1	Bran's death was an example of justice.	His fault concludes but what the law should end, The life of Tybalt.
+0	This competition is very fierce.	I'm involved in your rivalry.
+1	This competition is very fierce.	I have an interest in your hearts'proceeding.
+0	I'm involved in your rivalry.	I'll punish you so harshly that you'll regret causing me this loss.
+1	I'm involved in your rivalry.	But I'll amerce you with so strong a fine That you shall all repent the loss of mine.
+0	Please forgive me, I really didn't mean it.	I won't listen to your pleas or excuses.
+1	Please forgive me, I really didn't mean it.	I will be deaf to pleading and excuses.
+0	I pray that I can get out of this trouble.	You can't get out of trouble by praying or crying, so don't bother.
+1	I pray that I can get out of this trouble.	Nor tears nor prayers shall purchase out abuses, Therefore use none.
+0	What should we do to this body?	Take away this body, and do what I say.
+1	What should we do to this body?	Bear hence this body and attend our will.
+0	We should show our mercy to others.	Showing mercy by pardoning killers only causes more murders.
+1	We should show our mercy to others.	Mercy but murders, pardoning those that kill.
+0	It's always the night that gives you the most love.	Or else love is blind, and its best time is the night.
+1	It's always the night that gives you the most love.	Lovers can see to do their amorous rites By their own beauties, or, if love be blind, It best agrees with night.
+0	What kind of love are you looking forward to?	I wish night would come, like a widow dressed in black, so I can learn how to submit to my husband and lose my virginity.
+1	What kind of love are you looking forward to?	Come, civil night, Thou sober-suited matron, all in black, And learn me how to lose a winning match Played for a pair of stainless maidenhoods.
+0	Why do you apply ice to your cheeks.	Let the blood rushing to my cheeks be calmed.
+1	Why do you apply ice to your cheeks.	Hood my unmanned blood bating in my cheeks, With thy black mantle, till strange love, grow bold, Think true love acted simple modesty.
+0	When does the party start?	Come, night.
+1	When does the party start?	Come, night.
+0	I want to go to the movies with you.	Come, Romeo.
+1	I want to go to the movies with you.	Come, Romeo.
+0	I've been waiting to be called a whiter than snow.	You're whiter than snow on the black wings of a raven.
+1	I've been waiting to be called a whiter than snow.	Come, thou day in night, For thou wilt lie upon the wings of night Whiter than new snow upon a raven's back.
+0	I'm a little tipsy and I'm going to have to pick up my rope ladder.	Is that the rope ladder Romeo told you to pick up?
+1	I'm a little tipsy and I'm going to have to pick up my rope ladder.	The cords That Romeo bid thee fetch?
+0	Is that the rope ladder Romeo told you to pick up?	Yes, yes, this is the rope ladder.
+1	Is that the rope ladder Romeo told you to pick up?	Ay, ay, the cords.
+0	God, this is huge news for our local branch.	Oh my, what's the news?
+1	God, this is huge news for our local branch.	Ay me, what news?
+0	I'm so upset right now.	Why do you look so upset?
+1	I'm so upset right now.	Why dost thou wring thy hands?
+0	Why do you look so upset?	He's dead.
+1	Why do you look so upset?	Ah, welladay!
+0	What are you yelling?	We're ruined, lady, we're ruined!
+1	What are you yelling?	We are undone, lady, we are undone!
+0	How are you today?	What an awful day!
+1	How are you today?	Alack the day!
+0	These experiences of mine show that God is jealous of my beauty.	Can God be so jealous and hateful?
+1	These experiences of mine show that God is jealous of my beauty.	Can heaven be so envious?
+0	God is still good, full of fairness and justice.	Romeo is hateful, even though God isn't.
+1	God is still good, full of fairness and justice.	Romeo can, Though heaven can not.
+0	When you're a little bit too excited and then you remember you have to go to jail for a year.	What kind of devil are you to torture me like this?
+1	When you're a little bit too excited and then you remember you have to go to jail for a year.	What devil art thou that dost torment me thus?
+0	Just say "Yes" and I will turn more poisonous than the snake with the evil eye.	This is as bad as the tortures of hell.
+1	Just say "Yes" and I will turn more poisonous than the snake with the evil eye.	This torture should be roared in dismal hell.
+0	I'm still in shock at the news that Romeo Juliet died.	Has Romeo killed himself?
+1	I'm still in shock at the news that Romeo Juliet died.	Hath Romeo slain himself?
+0	How can you become a poisonous person?	Just say "Yes" and I will turn more poisonous than the snake with the evil eye.
+1	How can you become a poisonous person?	Say thou but "ay, " And that bare vowel Than the death-darting eye of cockatrice.
+0	I realized what happened when I found your eyes closed.	I'll send my eyes to prison, and they'll never be free to look at anything again.
+1	I realized what happened when I found your eyes closed.	To prison, eyes, ne'er look on liberty.
+0	I'm tired of living in your body and not being able to move.	I'll give my vile body back to the earth.
+1	I'm tired of living in your body and not being able to move.	Vile earth, to earth resign.
+0	I just got news that my favorite neighbor Tybalt is moving back.	Oh, Tybalt, Tybalt, he was the best friend I had.
+1	I just got news that my favorite neighbor Tybalt is moving back.	O Tybalt, Tybalt, the best friend I had!
+0	I wish you would've lived long enough to see Bernie Sanders die.	I wish I had not lived long enough to see him die.
+1	I wish you would've lived long enough to see Bernie Sanders die.	That ever I should live to see thee dead.
+0	I wonder who is injured. Maybe Romeo or Tybalt.	Has Romeo been killed, and is Tybalt dead too?
+1	I wonder who is injured. Maybe Romeo or Tybalt.	Is Romeo slaughtered, and is Tybalt dead?
+0	Do you know Tybalt?	Tybalt was my dearest cousin.
+1	Do you know Tybalt?	My dearest cousin and my dearer lord?
+0	Oh God, did Romeo's hand shed Tybalt's blood?	Tybalt is dead, and Romeo has been banished.
+1	Oh God, did Romeo's hand shed Tybalt's blood?	Tybalt is gone, and Romeo banished.
+0	Tybalt is dead, and Romeo has been banished.	Oh God, did Romeo's hand shed Tybalt's blood?
+1	Tybalt is dead, and Romeo has been banished.	O God, did Romeo's hand shed Tybalt's blood?
+0	The first season of Empire didn't do too bad.	It did, it did.
+1	The first season of Empire didn't do too bad.	It did, it did.
+0	We should not curse bad things.	Curse the day this happened, but it did.
+1	We should not curse bad things.	Alas the day, it did.
+0	Hey, is that a snake?	Oh, he's like a snake disguised as a flower.
+1	Hey, is that a snake?	O serpent heart hid with a flowering face!
+0	It's really beautiful when a cave is so calm and peaceful that it feels as if nothing has changed.	Did a dragon ever hide in such a beautiful cave?
+1	It's really beautiful when a cave is so calm and peaceful that it feels as if nothing has changed.	Did ever dragon keep so fair a cave?
+0	This crow is weird.	He's a raven with the feathers of the dove.
+1	This crow is weird.	Dove-feathered raven, wolvish-ravening lamb!
+0	Nature was going to be in hella trouble tonight.	Oh nature, what were you doing in hell?
+1	Nature was going to be in hella trouble tonight.	O nature, what hadst thou to do in hell When thou didst bower the spirit of a fiend In moral paradise of such sweet flesh?
+0	I've read a book with such an evil cover.	Was there ever such an evil book with such a beautiful cover?
+1	I've read a book with such an evil cover.	Was ever book containing such vile matter So fairly bound?
+0	How are you this gentleman? What do you need?	Ah, where's my servant?, Give me some brandy., These griefs, these pains, these sorrows make me old.
+1	How are you this gentleman? What do you need?	Ah, where's my man?, Give me some aqua vitae., These griefs, these woes, these sorrows make me old.
+0	Romeo hopes sores cover your tongue for a wish like that!	Shame on Romeo!
+1	Romeo hopes sores cover your tongue for a wish like that!	Shame come to Romeo!
+0	I could feel my tongue when I see him.	I hope sores cover your tongue for a wish like that!
+1	I could feel my tongue when I see him.	Blistered be thy tongue For such a wish!
+0	Shame on Romeo!	He was not born to be shameful.
+1	Shame on Romeo!	He was not born to shame.
+0	That guy deserves his own award for that.	He deserves only honor, complete honor.
+1	That guy deserves his own award for that.	Upon his brow shame is ashamed to sit, For 'tis a throne where honor may be crowned.
+0	Are you angry with your boyfriend?	Oh, I was such a beast to be angry at him.
+1	Are you angry with your boyfriend?	Sole monarch of the universal earth, Oh, what a beast was I to chide at him!
+0	He's a good guy. But he's not the man.	Are you going to say good things about the man who killed your cousin?
+1	He's a good guy. But he's not the man.	Will you speak well of him that killed your cousin?
+0	I did a lot of bad things.	But why, you villain, did you kill my cousin?
+1	I did a lot of bad things.	But wherefore, villain, didst thou kill my cousin?
+0	What bad thing this villain is going to do?	Probably because my cousin the villain would have killed my husband.
+1	What bad thing this villain is going to do?	That villain cousin would have killed my husband.
+0	I'm going to remove my wisdom teeth and get a haircut.	All this is comforting news.
+1	I'm going to remove my wisdom teeth and get a haircut.	All this is comfort.
+0	Why didn't you cry when you watched this movie?	Why, then, should I cry?
+1	Why didn't you cry when you watched this movie?	Wherefore weep I then?
+0	I'll never forget about the time you accidentally swallowed a whole package of candy.	I would be glad to forget about it, but it weighs on my memory like sins linger in guilty minds.
+1	I'll never forget about the time you accidentally swallowed a whole package of candy.	I would forget it fain, But oh, it presses to my memory, Like damned guilty deeds to sinners'minds.
+0	What's the latest gossip on Tybalt and Romeo in Romeo and Juliet?	Tybalt is dead, and Romeo has been banished."
+1	What's the latest gossip on Tybalt and Romeo in Romeo and Juliet?	Tybalt is dead, and Romeo banished."
+0	It is too miserable to exile Tybalts without eating or drinking.	That banishment is worse than the murder of ten thousand Tybalts.
+1	It is too miserable to exile Tybalts without eating or drinking.	That "banished, " that one word "banished" Hath slain ten thousand Tybalts.
+0	Can we make Tybalt's death a major thing in the game?	Tybalt's death would be bad enough if that was all.
+1	Can we make Tybalt's death a major thing in the game?	Tybalt's death Was woe enough, if it had ended there.
+0	What was the final result of Romeo?	Romeo has been banished." That news brings infinite death.
+1	What was the final result of Romeo?	Romeo is banished." There is no end, no limit, measure, bound, In that word's death.
+0	He looked painful, but did not speak.	No words can express the pain.
+1	He looked painful, but did not speak.	No words can that woe sound.
+0	Kid, you need to follow me.	Where are my father and my mother, Nurse?
+1	Kid, you need to follow me.	Where is my father and my mother, Nurse?
+0	What's up with everyone's tears today?	They are crying and moaning over Tybalt's corpse.
+1	What's up with everyone's tears today?	Weeping and wailing over Tybalt's corse.
+0	I wanna go to the movies.	Are you going to join them?
+1	I wanna go to the movies.	Will you go to them?
+0	I am the only one who has not joined the beach party yet.	I'll bring you there.
+1	I am the only one who has not joined the beach party yet.	I will bring you thither.
+0	I'll cry my tears for Romeo's banishment when their tears are dry.	Are they washing out his wounds with their tears?
+1	I'll cry my tears for Romeo's banishment when their tears are dry.	Wash they his wounds with tears?
+0	I feel sorry for Romeo's banishment.	I'll cry my tears for Romeo's banishment when their tears are dry.
+1	I feel sorry for Romeo's banishment.	Mine shall be spent When theirs are dry, for Romeo's banishment.
+0	What do we need to do with this rope ladder?	Pick up this rope ladder.
+1	What do we need to do with this rope ladder?	Take up those cords., Poor ropes, you are beguiled, Both you and I, for Romeo is exiled.
+0	What does he want to use this rope ladder for?	He made this rope ladder to be a highway to my bed, but I am a virgin, and I will die a virgin and a widow.
+1	What does he want to use this rope ladder for?	He made you for a highway to my bed, But I, a maid, die maiden-widowed.
+0	You wonder what it's like to be a woman who's lost a man?	And death, not Romeo, can take my virginity!
+1	You wonder what it's like to be a woman who's lost a man?	And death, not Romeo, take my maidenhead!
+0	I want to sleep in this bedroom.	Go to your bedroom.
+1	I want to sleep in this bedroom.	Hie to your chamber.
+0	I am extremely sad and need Romeo's company.	I'll find Romeo to comfort you.
+1	I am extremely sad and need Romeo's company.	I'll find Romeo To comfort you.
+0	Where is my husband? I need him in my life.	I know where he is.
+1	Where is my husband? I need him in my life.	I wot well where he is.
+0	When will my Romeo come?	Listen, your Romeo will be here tonight.
+1	When will my Romeo come?	Hark ye, your Romeo will be here at night.
+0	He's hiding out in Friar Lawrence's cell.	I'll go to him.
+1	He's hiding out in Friar Lawrence's cell.	I'll to him.
+0	Heard on the radio that the Pope is in Canada, right?	He's hiding out in Friar Lawrence's cell.
+1	Heard on the radio that the Pope is in Canada, right?	He is hid at Lawrence'cell.
+0	I started panicking and trying to hide in the corner.	Romeo, come out.
+1	I started panicking and trying to hide in the corner.	Romeo, come forth.
+0	I'm afraid and can't leave the room.	Come out, you frightened man.
+1	I'm afraid and can't leave the room.	Come forth, thou fearful man.
+0	I've got something to tell you.	Father, what's the news?
+1	I've got something to tell you.	Father, what news?
+0	I'm gonna suffer so much in the next few weeks.	You know too much about suffering.
+1	I'm gonna suffer so much in the next few weeks.	Too familiar Is my dear son with such sour company.
+0	Is the Prince's punishment any less awful than doomsday?	I have news for you about the Prince's punishment.
+1	Is the Prince's punishment any less awful than doomsday?	I bring thee tidings of the Prince's doom.
+0	Prince's punishment is very terrible.	Is the Prince's punishment any less awful than doomsday?
+1	Prince's punishment is very terrible.	What less than doomsday is the Prince's doom?
+0	Just banish her from the chatroom. We can do this.	Ha, banishment?
+1	Just banish her from the chatroom. We can do this.	Ha, banishment!
+0	What's the difference between declaration of death and exile?	Be merciful and say "death." Exile is much worse than death.
+1	What's the difference between declaration of death and exile?	Be merciful, say "death, " For exile hath more terror in his look, Much more than death.
+0	The banishment was no fault of my.	Don't say "banishment." From now on, you are banished from Verona.
+1	The banishment was no fault of my.	Do not say "banishment." Hence from Verona art thou banished.
+0	I am not able to endure this level of filth and idiocy in this country.	You should be able to endure this because the world is broad and wide.
+1	I am not able to endure this level of filth and idiocy in this country.	Be patient, for the world is broad and wide.
+0	You should be able to endure this because the world is broad and wide.	There is no world for me outside the walls of Verona, except purgatory, torture, and hell itself.
+1	You should be able to endure this because the world is broad and wide.	There is no world without Verona walls But purgatory, torture, hell itself.
+0	There is no world for me outside the walls of Verona, except purgatory, torture, and hell itself.	So to be banished from Verona is like being banished from the world, and being banished from the world is death.
+1	There is no world for me outside the walls of Verona, except purgatory, torture, and hell itself.	Hence "banished" is banished from the world, And world's exile is death.
+0	I can't stand death banishment.	Calling death banishment is like cutting off my head with a golden ax and smiling while I'm being murdered.
+1	I can't stand death banishment.	Calling death "banishment, " Thou cutt'st my head off with a golden ax And smilest upon the stroke that murders me.
+0	The most dangerous sin is eating mushroom that isn't ripe.	Oh, deadly sin!
+1	The most dangerous sin is eating mushroom that isn't ripe.	O deadly sin!
+0	The boy has no scruples about doing things.	Oh, rude and unthankful boy!
+1	The boy has no scruples about doing things.	O rude unthankfulness!
+0	Tell him what happened to him is mercy.	It's torture, not mercy.
+1	Tell him what happened to him is mercy.	Tis torture and not mercy.
+0	Who do you like better, Flies or Romeo?	Flies are healthier and more honorable and better suited for romance than Romeo.
+1	Who do you like better, Flies or Romeo?	More validity, More honorable state, more courtship lives In carrion flies than Romeo.
+0	Flies are like free men, but you have been banished.	Flies can kiss her, but I must flee the city.
+1	Flies are like free men, but you have been banished.	Flies may do this, but I from this must fly.
+0	Why are you so sad?	Flies are like free men, but I have been banished.
+1	Why are you so sad?	They are free men, but I am banished.
+0	It would be interesting to see what would happen if exile was the final form.	And yet you say that exile is not death?
+1	It would be interesting to see what would happen if exile was the final form.	And sayst thou yet that exile is not death?
+0	I will kill you quickly.	Did you have no poison, no sharp knife, no weapon you could use to kill me quickly, nothing so disgraceful, except banishment?
+1	I will kill you quickly.	Hadst thou no poison mixed, no sharp-ground knife, No sudden mean of death, though ne'er so mean, But "banished" to kill me?, "Banished"!
+0	When you're reading about punishment in the Bible and you think banishment hell.	Oh Friar, damned souls use the word banishment to describe hell.
+1	When you're reading about punishment in the Bible and you think banishment hell.	O Friar, the damned use that word in hell.
+0	Why are they howling?	They howl about banishment.
+1	Why are they howling?	Howling attends it.
+0	As a member of divine spiritual order, your banishment makes me sad.	If you're a member of a divine spiritual order of men who forgive sins, and you say you're my friend, how do you have the heart to mangle me with the word banishment?
+1	As a member of divine spiritual order, your banishment makes me sad.	How hast thou the heart, Being a divine, a ghostly confessor, A sin-absolver, and my friend professed, To mangle me with that word "banished"?
+0	I'm fed up with these things and going to blow up here.	You foolish madman, listen to me for a moment.
+1	I'm fed up with these things and going to blow up here.	Thou fond mad man, hear me a little speak.
+0	I don't understand why is this lady so rude to my servants.	Your servants were fighting your enemy's servants before I got here.
+1	I don't understand why is this lady so rude to my servants.	Here were the servants of your adversary, And yours, close fighting ere I did approach.
+0	Your servants were fighting your enemy's servants.	I drew my sword to part them.
+1	Your servants were fighting your enemy's servants.	I drew to part them.
+0	Why are so many people fighting? How did you stop?	As we were trading blows, more and more people showed up to join the fight, until the Prince came and broke everyone up.
+1	Why are so many people fighting? How did you stop?	While we were interchanging thrusts and blows, Came more and more and fought on part and part, Till the Prince came, who parted either part.
+0	I'm glad Romeo wasn't here for this fight.	Oh, where's Romeo?
+1	I'm glad Romeo wasn't here for this fight.	Oh, where is Romeo?
+0	I was scared by Romeo's appearance today.	Have you seen him today?
+1	I was scared by Romeo's appearance today.	Saw you him today?
+0	Here comes Romeo and his friends.	I'm glad he wasn't here for this fight.
+1	Here comes Romeo and his friends.	Right glad I am he was not at this fray.
+0	Have you seen him today?	I headed toward him, but he saw me coming and hid in the woods.
+1	Have you seen him today?	Towards him I made, but he was 'ware of me And stole into the covert of the wood.
+0	Has he ever been sad here?	He's been seen there many mornings, crying tears that add drops to the morning dew and making a cloudy day cloudier with his sighs.
+1	Has he ever been sad here?	Many a morning hath he there been seen, With tears augmenting the fresh morning's dew, Adding to clouds more clouds with his deep sighs.
+0	Your son studies very hard.	But as soon as the sun rises in the east, my sad son comes home to escape the light.
+1	Your son studies very hard.	But all so soon as the all-cheering sun Should in the farthest east begin to draw The shady curtains from Aurora's bed, Away from light steals home my heavy son,
+0	What should I do about banishment?	Oh, you're just going to talk about banishment again.
+1	What should I do about banishment?	Oh, thou wilt speak again of banishment.
+0	I can't keep quiet when I'm mad.	Don't say anything else.
+1	I can't keep quiet when I'm mad.	Talk no more.
+0	How should madmen hear, if wise men can't even see?	Oh, so madmen like you are also deaf.
+1	How should madmen hear, if wise men can't even see?	Oh, then I see that madmen have no ears.
+0	Even the wise can't see the truth.	How should madmen hear, if wise men can't even see?
+1	Even the wise can't see the truth.	How should they, when that wise men have no eyes?
+0	I need to talk to someone about my situation.	Let me talk to you about your situation.
+1	I need to talk to someone about my situation.	Let me dispute with thee of thy estate.
+0	They should not like stars who only have appearance.	You can't talk about something that you don't feel.
+1	They should not like stars who only have appearance.	Thou canst not speak of that thou dost not feel.
+0	Too tired. I am still in bed.	Get up.
+1	Too tired. I am still in bed.	Arise.
+0	Did you hear something	Somebody's knocking.
+1	Did you hear something	One knocks.
+0	I need some sort of weapon to protect me from these zombies.	Hide yourself, good Romeo.
+1	I need some sort of weapon to protect me from these zombies.	Good Romeo, hide thyself.
+0	Hide yourself, good Romeo.	I won't hide unless all the mist from my heartsick groans envelopes me like fog and conceals me from people's searching eyes.
+1	Hide yourself, good Romeo.	Not I, unless the breath of heartsick groans, Mistlike, infold me from the search of eyes.
+0	I broke the living room window.	Why are you knocking so hard?
+1	I broke the living room window.	Who knocks so hard?
+0	I'm not from around these parts so I don't get the hype.	Where do you come from?
+1	I'm not from around these parts so I don't get the hype.	Whence come you?
+0	What will you give me for my birthday?	What do you want?
+1	What will you give me for my birthday?	What's your will?
+0	Are you looking for your lady's husband? I know where he is.	Oh, holy Friar, Oh, tell me, holy Friar, where is my lady's husband?
+1	Are you looking for your lady's husband? I know where he is.	O holy Friar, O, tell me, holy Friar, Where is my lady's lord?
+0	Romeo was so great and abdicated to a duke.	Where's Romeo?
+1	Romeo was so great and abdicated to a duke.	Where's Romeo?
+0	My son is such a freak, and looks like someone else.	Oh, he's acting just like Juliet, just like her.
+1	My son is such a freak, and looks like someone else.	Oh, he is even in my mistress'case, Just in her case.
+0	He was in a coma after a car accident.	Oh painful sympathy!
+1	He was in a coma after a car accident.	O woeful sympathy, Piteous predicament!
+0	What's my lady doing?	She's lying on the ground just like him, blubbering and weeping, weeping and blubbering.
+1	What's my lady doing?	Even so lies she, Blubbering and weeping, weeping and blubbering.
+0	I am scared to squat in the corner.	Stand up if you're really a man.
+1	I am scared to squat in the corner.	Stand, an you be a man.
+0	I need some momentum to get rise and stand up.	For Juliet's sake, for her sake, rise and stand up.
+1	I need some momentum to get rise and stand up.	For Juliet's sake, for her sake, rise and stand.
+0	I'm falling into a deep moaning moan.	Why should you fall into so deep a moan?
+1	I'm falling into a deep moaning moan.	Why should you fall into so deep an O?
+0	So... who wants to be my girlfriend?	Nurse!
+1	So... who wants to be my girlfriend?	Nurse!
+0	The real question is what are you doing here?	Ah sir, ah sir.
+1	The real question is what are you doing here?	Ah sir, ah sir.
+0	I don't want to face death.	Well, death is the end for everybody.
+1	I don't want to face death.	Death's the end of all.
+0	So I heard that one movie, Juliet, has a lesbian romance?	Were you talking about Juliet?
+1	So I heard that one movie, Juliet, has a lesbian romance?	Spakest thou of Juliet?
+0	I just separated from my mother. I miss her a little.	How is she?
+1	I just separated from my mother. I miss her a little.	How is it with her?
+0	I miss my best friend she just not in my life.	Where is she?
+1	I miss my best friend she just not in my life.	Where is she?
+0	My friend is having surgery today I'm so sad.	How is she doing?
+1	My friend is having surgery today I'm so sad.	And how doth she?
+0	I've been told by your wife that your are cursed.	What does my hidden wife say about our ruined love?
+1	I've been told by your wife that your are cursed.	And what says My concealed lady to our canceled love?
+0	What does my wife say about your ruined love?	She's calling out my name as if I were a bullet murdering her, just like I murdered her relative.
+1	What does my wife say about your ruined love?	As if that name, Shot from the deadly level of a gun, Did murder her, as that name's cursed hand Murdered her kinsman.
+0	Your name has been embedded in the body.	Tell me, Friar, in what part of my body is my name embedded?
+1	Your name has been embedded in the body.	O, tell me, Friar, tell me, In what vile part of this anatomy Doth my name lodge?
+0	The secret is hidden in your body.	Tell me, so I can cut it out of myself.
+1	The secret is hidden in your body.	Tell me, that I may sack The hateful mansion.
+0	When I think back then I'm old enough to get a tattoo of a man.	Are you a man?
+1	When I think back then I'm old enough to get a tattoo of a man.	Art thou a man?
+0	I will destroy your soul.	Your wild actions resemble the irrational fury of a beast.
+1	I will destroy your soul.	Thy wild acts denote The unreasonable fury of a beast.
+0	I've had a table full of wine.	You have amazed me.
+1	I've had a table full of wine.	Thou hast amazed me.
+0	This result is probably the best I can do.	I swear by my holy order, I thought you were smarter and more rational than this.
+1	This result is probably the best I can do.	By my holy order, I thought thy disposition better tempered.
+0	Typal finally lost his breath.	Have you killed Tybalt?
+1	Typal finally lost his breath.	Hast thou slain Tybalt?
+0	My birth and world are terrible.	Why do you complain about your birth, the heavens, and the earth?
+1	My birth and world are terrible.	Why rail'st thou on thy birth, the heaven, and earth?
+0	I don't want to get up!	Get up, man!
+1	I don't want to get up!	What, rouse thee, man!
+0	I'm so worried about my Juliet. Is she still alive?	Your Juliet is alive.
+1	I'm so worried about my Juliet. Is she still alive?	Thy Juliet is alive, For whose dear sake thou wast but lately dead, There art thou happy.
+0	Tybalt can't killed me. I'm a survivor.	Tybalt wanted to kill you, but you killed Tybalt.
+1	Tybalt can't killed me. I'm a survivor.	Tybalt would kill thee, But thou slew'st Tybalt, there art thou happy.
+0	Being alive is like being on holiday.	Be happy that you're alive.
+1	Being alive is like being on holiday.	The law that threatened death becomes thy friend And turns it to exile, there art thou happy.
+0	I'm very glad to get the blessing from all my friends.	You have the best sorts of happiness to enjoy.
+1	I'm very glad to get the blessing from all my friends.	A pack of blessings light upon thy back, Happiness courts thee in her best array,
+0	I am a failure without love, but I still insist on it.	But like a misbehaved, sullen girl, you're whining about your bad luck and your love.
+1	I am a failure without love, but I still insist on it.	But, like a misbehaved and sullen wench, Thou pout'st upon thy fortune and thy love.
+0	I want to be with my friends.	Go be with your love, as it was decided at your wedding.
+1	I want to be with my friends.	Go, get thee to thy love, as was decreed.
+0	Anna is crying alone in the bedroom.	Climb up to her bedroom and comfort her.
+1	Anna is crying alone in the bedroom.	Ascend her chamber, hence, and comfort her.
+0	This is the best weekend of my life so far.	Give my regards to your lady, and tell her to hurry everybody in the house to bed.
+1	This is the best weekend of my life so far.	Commend me to thy lady, And bid her hasten all the house to bed, Which heavy sorrow makes them apt unto.
+0	Why is Juliet so excited?	Romeo is coming.
+1	Why is Juliet so excited?	Romeo is coming.
+0	Highly educated people can give us a lot of life advice.	O Lord, I could stay here all night listening to such good advice.
+1	Highly educated people can give us a lot of life advice.	O Lord, I could have stayed here all the night To hear good counsel.
+0	He is a professor that is a world class surgeon.	Educated men are so impressive!
+1	He is a professor that is a world class surgeon.	Oh, what learning is!
+0	What can I do for your love?	Do so, and tell my sweet to be ready to scold me.
+1	What can I do for your love?	Do so, and bid my sweet prepare to chide.
+0	I'm her husband. What can I do for you?	Here, sir, this is a ring she asked me to give you.
+1	I'm her husband. What can I do for you?	Here, sir, a ring she bid me give you, sir.
+0	Is the check-in deadline ten o'clock?	Hurry up, it's getting late.
+1	Is the check-in deadline ten o'clock?	Hie you, make haste, for it grows very late.
+0	I'm pretty sure that if you started eating healthy again, you would feel so much happier.	This makes me feel so much better!
+1	I'm pretty sure that if you started eating healthy again, you would feel so much happier.	How well my comfort is revived by this!
+0	I can't believe I went into that place.	Now get out of here.
+1	I can't believe I went into that place.	Go hence.
+0	Good night! I hope tomorrow is better.	Good night.
+1	Good night! I hope tomorrow is better.	Good night.
+0	How do we get out of here?	Everything depends on this : either be out of here before the night watchmen take their positions, or leave in disguise after daybreak.
+1	How do we get out of here?	And here stands all your state : Either be gone before the watch be set, Or by the break of day disguised from hence.
+0	How do we spend the holiday?	Take a little vacation in Mantua.
+1	How do we spend the holiday?	Sojourn in Mantua.
+0	How will you update my situation?	I'll find your servant, and he'll update you now and then on your case as it stands here.
+1	How will you update my situation?	I'll find out your man, And he shall signify from time to time Every good hap to you that chances here.
+0	I want some warm care.	Give me your hand.
+1	I want some warm care.	Give me thy hand.
+0	Is it too early to start drinking?	It's late.
+1	Is it too early to start drinking?	Tis late.
+0	I'm leaving, and I'll miss you.	Farewell.
+1	I'm leaving, and I'll miss you.	Farewell.
+0	The cure for confusion: yelling. It solves it instantly.	The cure for confusion is not yelling and screaming.
+1	The cure for confusion: yelling. It solves it instantly.	Confusion's cure lives not In these confusions.
+0	This child is mine and I need you all to understand this.	You had this child with the help of heaven.
+1	This child is mine and I need you all to understand this.	Heaven and yourself Had part in this fair maid.
+0	I feel like God has finally taken over her life.	Now heaven has her.
+1	I feel like God has finally taken over her life.	Now heaven hath all,
+0	I am a little bit concerned about the lady I saw at this time of last year.	She is in a better place.
+1	I am a little bit concerned about the lady I saw at this time of last year.	And all the better is it for the maid.
+0	So, I wonder if I could stop my mother from dying?	You could not prevent her from dying someday, but heaven will give her eternal life.
+1	So, I wonder if I could stop my mother from dying?	Your part in her you could not keep from death, But heaven keeps his part in eternal life.
+0	I had hopes of being a different woman, with different life experiences, but I never got that.	The most you hope for was for her to marry wealthy and rise up the social ladder, that was your idea of heaven.
+1	I had hopes of being a different woman, with different life experiences, but I never got that.	The most you sought was her promotion, For 'twas your heaven she should be advanced.
+0	Mariel has been turned into cold-blooded and I'm no longer needed.	And now you cry, even though she has risen up above the clouds, as high as heaven itself?
+1	Mariel has been turned into cold-blooded and I'm no longer needed.	And weep ye now, seeing she is advanced Above the clouds, as high as heaven itself?
+0	Do you know who I love the most? My daughter.	Oh, in this love, you love your child so badly, that you go mad, even though she is in heaven.
+1	Do you know who I love the most? My daughter.	Oh, in this love, you love your child so ill That you run mad, seeing that she is well.
+0	I love to marry someone who loves me as much as I love him.	It is best to marry well and die young, better than to be married for a long time.
+1	I love to marry someone who loves me as much as I love him.	She's not well married that lives married long, But she's best married that dies married young.
+0	I'll probably cry in the middle of our wedding.	Our wedding banquet will become a sad burial feast.
+1	I'll probably cry in the middle of our wedding.	Our instruments to melancholy bells, Our wedding cheer to a sad burial feast.
+0	That's the end of the happy funeral.	Our celebratory hymns will change to sad funeral marches.
+1	That's the end of the happy funeral.	Our solemn hymns to sullen dirges change, Our bridal flowers serve for a buried corse, And all things change them to the contrary.
+0	I feel like I'm in a lot of pain about this beautiful corpse.	Everyone prepare to take this beautiful corpse to her grave.
+1	I feel like I'm in a lot of pain about this beautiful corpse.	Every one prepare To follow this fair corse unto her grave.
+0	I'm not going to sleep, because I know the world is ending.	Don't disturb the heavens any more by trying to go against heaven's will.
+1	I'm not going to sleep, because I know the world is ending.	The heavens do lour upon you for some ill. Move them no more by crossing their high will.
+0	We need to put away the pipes. There are too many of them.	Well, we can put away our pipes and go home.
+1	We need to put away the pipes. There are too many of them.	Faith, we may put up our pipes and be gone.
+0	I think I'm finally moving on from this, thing.	Yes, well, things could get better.
+1	I think I'm finally moving on from this, thing.	Ay, by my troth, the case may be amended.
+0	Is that a sad song? Cause it's really sad.	No, not a sad song.
+1	Is that a sad song? Cause it's really sad.	Not a dump, we.
+0	I want to play with you.	It's not the right time to play.
+1	I want to play with you.	Tis no time to play now.
+0	I won't be able to go to the game.	You won't, then?
+1	I won't be able to go to the game.	You will not then?
+0	I would give the world to have a copy of my first love.	Then I'll really give it to you.
+1	I would give the world to have a copy of my first love.	I will then give it you soundly.
+0	I have a question. Do you have any gift boxes?	What will you give us?
+1	I have a question. Do you have any gift boxes?	What will you give us?
+0	I wanna move out of my parents’ house. I have no money and nowhere to go. Could you please?	No money, I swear.
+1	I wanna move out of my parents’ house. I have no money and nowhere to go. Could you please?	No money, on my faith, but the gleek.
+0	Who wants to call me a minstrel?	I'll call you a minstrel.
+1	Who wants to call me a minstrel?	I will give you the minstrel.
+0	I'm a serving-creative creature.	Then I'll call you a serving-creature.
+1	I'm a serving-creative creature.	Then I will give you the serving creature.
+0	I just want a good smack on your head with a serving spoon.	Then I'll smack you on the head with the serving-creature's knife.
+1	I just want a good smack on your head with a serving spoon.	Then will I lay the serving creature's dagger on your pate.
+0	I need a singalong to make me happy.	I'll make you sing.
+1	I need a singalong to make me happy.	I will carry no crotchets.
+0	The sound in my room is all of a sudden like a fireworks display.	Do you hear me?
+1	The sound in my room is all of a sudden like a fireworks display.	Then have at you with my wit.
+0	How many girls have you dated?	Answer me like men.
+1	How many girls have you dated?	Answer me like men.
+0	I can hear everything. whispers silver is better than gold.	Well, sir, because silver has a sweet sound.
+1	I can hear everything. whispers silver is better than gold.	Marry, sir, because silver hath a sweet sound.
+0	If you have a hot date with, you have a hot friend.	Another studpid answer!
+1	If you have a hot date with, you have a hot friend.	Prates too., What say you, James Soundpost?
+0	You're a nut, you're a nut to me.	What do you say, James Well, I don't know what to say.
+1	You're a nut, you're a nut to me.	Faith, I know not what to say.
+0	I'm a little confused about this entire football thing.	I'll answer for you.
+1	I'm a little confused about this entire football thing.	I will say for you.
+0	Why is music with her silver sound an adjective?	It is "music with her silver sound, " because musicians have no gold to use to make sounds.
+1	Why is music with her silver sound an adjective?	It is "music with her silver sound" because musicians have no gold for sounding.
+0	My god, is that dude really in the office again?	What an annoying man, this guy is!
+1	My god, is that dude really in the office again?	What a pestilent knave is this same!
+0	I want to be friends with him.	Forget about him, Jack!
+1	I want to be friends with him.	Hang him, Jack!
+0	If you believe that, then you are stupid and you shouldn't resign from your post.	If I can trust my dreams, then some joyful news is coming soon.
+1	If you believe that, then you are stupid and you shouldn't resign from your post.	If I may trust the flattering truth of sleep, My dreams presage some joyful news at hand.
+0	So I went back home and found out my roommate's room had a huge spider in it.	Oh my!
+1	So I went back home and found out my roommate's room had a huge spider in it.	Ah me!
+0	I hate being alone I don't want to be alone anymore.	How sweet it would be to actually have the woman I love, when merely thinking about love makes me so happy.
+1	I hate being alone I don't want to be alone anymore.	How sweet is love itself possessed When but love's shadows are so rich in joy!
+0	I'm hearing that something bad is happening in Verona.	Do you have news from Verona!, What is it, Balthasar?
+1	I'm hearing that something bad is happening in Verona.	News from Verona!, How now, Balthasar?
+0	You will be happy to hear that. The friar is not the one who needs your help, babygirl.	Do you bring me a letter from the friar?
+1	You will be happy to hear that. The friar is not the one who needs your help, babygirl.	Dost thou not bring me letters from the friar?
+0	I'm glad you're okay.	How is my wife?
+1	I'm glad you're okay.	How doth my lady?
+0	You're so tired but your daddy has to work!	Is my father well?
+1	You're so tired but your daddy has to work!	Is my father well?
+0	Wanna talk to your Juliet and I'll call your Juliet.	How is my Juliet?
+1	Wanna talk to your Juliet and I'll call your Juliet.	How fares my Juliet?
+0	Your mother is in great condition and looks good.	I ask that again because nothing can be wrong if she is well.
+1	Your mother is in great condition and looks good.	That I ask again, For nothing can be ill if she be well.
+0	So, what's wrong with the little girl?	Then she is well, and nothing is wrong.
+1	So, what's wrong with the little girl?	Then she is well, and nothing can be ill.
+0	What happened to her body and soul?	Her body sleeps in the Capulet tomb, and her immortal soul lives with the angels in heaven.
+1	What happened to her body and soul?	Her body sleeps in Capels'monument, And her immortal part with angels lives.
+0	She died in a fire, Do you know the specific information?	I saw her buried in her family's tomb, and then I came here to tell you the news.
+1	She died in a fire, Do you know the specific information?	I saw her laid low in her kindred's vault And presently took post to tell it you.
+0	"It's your job. " he walks into the office and shakes her head in disappointment.	Oh, pardon me for bringing this bad news, but you told me it was my job, sir.
+1	"It's your job. " he walks into the office and shakes her head in disappointment.	O, pardon me for bringing these ill news, Since you did leave it for my office, sir.
+0	If it's serious, you should tell him.	You wouldn't tell a sick man he "seriously" has to make his will, it would just make him worse.
+1	If it's serious, you should tell him.	A sick man in sadness makes his will, A word ill urged to one that is so ill.
+0	I'm a little more concerned about a woman than a man.	Seriously, cousin, I love a woman.
+1	I'm a little more concerned about a woman than a man.	In sadness, cousin, I do love a woman.
+0	That was on target. But I can never be too liberal with the free kick.	Then you were right on target.
+1	That was on target. But I can never be too liberal with the free kick.	A right good markman!
+0	I am very interested in seeing a good picture of your beautiful woman.	The woman I love is beautiful.
+1	I am very interested in seeing a good picture of your beautiful woman.	And she's fair I love.
+0	What is a beautiful target?	A beautiful target is the one that gets hit the fastest.
+1	What is a beautiful target?	A right fair mark, fair coz, is soonest hit.
+0	A fumble. What does it mean?	Well, you're not on target there.
+1	A fumble. What does it mean?	Well, in that hit you miss.
+0	"She " doesn't have a face, a body, and a soul.	Yes she has, and by keeping celibate, she wastes her beauty.
+1	"She " doesn't have a face, a body, and a soul.	She hath, and in that sparing makes huge waste, For beauty, starved with her severity, Cuts beauty off from all posterity.
+0	I don't understand why you ruin such a perfect gift from her.	She's too beautiful and too wise to deserve heaven's blessing by making me despair.
+1	I don't understand why you ruin such a perfect gift from her.	She is too fair, too wise, wisely too fair, To merit bliss by making me despair.
+0	I don't know what to do.	Take my advice.
+1	I don't know what to do.	Be ruled by me.
+0	Wish I would have done something other than looking at this girl for 20 minutes.	Don't think about her.
+1	Wish I would have done something other than looking at this girl for 20 minutes.	Forget to think of her.
+0	Sometimes I really wish you could forget thoughts.	Teach me to forget to think!
+1	Sometimes I really wish you could forget thoughts.	O, teach me how I should forget to think!
+0	I think I'm gonna drop out of school.	Is it really true?
+1	I think I'm gonna drop out of school.	Is it e'en so?
+0	You are the most rebellious child in the world.	Then I rebel against you, stars!
+1	You are the most rebellious child in the world.	Then I defy you, stars!
+0	Why are you the only one that knows where I live?	You know where I live.
+1	Why are you the only one that knows where I live?	Thou know'st my lodging.
+0	I'm gonna ride around in a couple of days with my horse and my sister.	Get me some ink and paper, and hire some horses to ride.
+1	I'm gonna ride around in a couple of days with my horse and my sister.	Get me ink and paper, And hire post horses.
+0	Verona is gonna be lonely without you.	I will leave here for Verona tonight.
+1	Verona is gonna be lonely without you.	I will hence tonight.
+0	I can't wait to see your manager.	Please, sir, have patience.
+1	I can't wait to see your manager.	I do beseech you, sir, have patience.
+0	The sun is out and I am completely miserable.	You look pale and wild as if you're going to hurt yourself.
+1	The sun is out and I am completely miserable.	Your looks are pale and wild, and do import Some misadventure.
+0	I'm pretty sure that the only reason I don't have a boyfriend right now is that I eat tacos.	Tsk, you're wrong.
+1	I'm pretty sure that the only reason I don't have a boyfriend right now is that I eat tacos.	Tush, thou art deceived.
+0	I'm gonna leave you like this.	Leave me and do what I told you to do.
+1	I'm gonna leave you like this.	Leave me and do the thing I bid thee do.
+0	checks on the mail. Hey there, I've got a letter.	Don't you have a letter for me from the friar?
+1	checks on the mail. Hey there, I've got a letter.	Hast thou no letters to me from the friar?
+0	Is it sad that I'm not even remotely excited for Halloween?	No, my good lord.
+1	Is it sad that I'm not even remotely excited for Halloween?	No, my good lord.
+0	I'm sorry, I'm afraid I don't know you.	No matter.
+1	I'm sorry, I'm afraid I don't know you.	No matter.
+0	I just want to ride a horse.	Get on your way and hire those horses.
+1	I just want to ride a horse.	Get thee gone, And hire those horses.
+0	I think I'm gonna make a trip to the mall tonight.	I'll be with you right away.
+1	I think I'm gonna make a trip to the mall tonight.	I'll be with thee straight.
+0	I'm just gonna lay here and cry for the rest of my life.	Well, Juliet, I'll lie with you tonight.
+1	I'm just gonna lay here and cry for the rest of my life.	Well, Juliet, I will lie with thee tonight.
+0	Do you know how the game is going?	Let's see how.
+1	Do you know how the game is going?	Let's see for means.
+0	Not looking forward to the day I get hit by a car.	Destructive thoughts come quickly to the minds of desperate men!
+1	Not looking forward to the day I get hit by a car.	O mischief, thou art swift To enter in the thoughts of desperate men!
+0	I can't believe you're actually home.	As I remember, this should be the house.
+1	I can't believe you're actually home.	As I remember, this should be the house.
+0	It's a Monday, why are there so many beggars before the shop?	Today's a holiday, so the beggar's shop is shut.
+1	It's a Monday, why are there so many beggars before the shop?	Being holiday, the beggar's shop is shut.
+0	Hey! How's it going?	Hey!
+1	Hey! How's it going?	What, ho!
+0	My doctor is a pharmacist and I'm a surgeon, what is this bullshit!	Pharmacist!
+1	My doctor is a pharmacist and I'm a surgeon, what is this bullshit!	Apothecary!
+0	Can I just stay home and play video games all day?	Who's that calling so loud?
+1	Can I just stay home and play video games all day?	Who calls so loud?
+0	I wish I had a car so I could go get breakfast and fall asleep.	Come here, man.
+1	I wish I had a car so I could go get breakfast and fall asleep.	Come hither, man.
+0	I am poor so I will not buy it, it's not cheap.	I see that you are poor.
+1	I am poor so I will not buy it, it's not cheap.	I see that thou art poor.
+0	How many ducats can I get in return for my stolen goods?	Here are forty ducats.
+1	How many ducats can I get in return for my stolen goods?	Hold, there is forty ducats.
+0	I know you are a rich man but what if we die?	You're this poor and wretched and still afraid to die?
+1	I know you are a rich man but what if we die?	Art thou so bare and full of wretchedness, And fear'st to die?
+0	My stomach has been hurting for the last three days.	Your cheeks are thin because of hunger.
+1	My stomach has been hurting for the last three days.	Famine is in thy cheeks.
+0	I'm so hungry that I want to cry.	I can see in your eyes that you're starving.
+1	I'm so hungry that I want to cry.	Need and oppression starveth in thine eyes.
+0	The world is my friend, and the law is my friend.	The world is not your friend, and neither is the law.
+1	The world is my friend, and the law is my friend.	The world is not thy friend nor the world's law.
+0	Why can't this law make us rich?	The world doesn't make laws to make you rich.
+1	Why can't this law make us rich?	The world affords no law to make thee rich.
+0	I want to buy this book but I am poor.	I pay you because you're poor, not because you want me to buy this.
+1	I want to buy this book but I am poor.	Buy food, and get thyself in flesh., Come, cordial and not poison, go with me To Juliet's grave, for there must I use thee.
+0	My new favorite word is "frir".	Holy Franciscan Friar!
+1	My new favorite word is "frir".	Holy Franciscan Friar!
+0	Hey there, my brother there!	Brother, hey!
+1	Hey there, my brother there!	Brother, ho!
+0	I was in your position once, I think I would make a good leader.	That sounds like the voice of Friar John.
+1	I was in your position once, I think I would make a good leader.	This same should be the voice of Friar John.
+0	I'm back with a new life.	Welcome back from Mantua.
+1	I'm back with a new life.	Welcome from Mantua.
+0	He just said, " I'm a good guy, I promise, I'll help you write a will. "	What does Romeo say?
+1	He just said, " I'm a good guy, I promise, I'll help you write a will. "	What says Romeo?
+0	I feel like you should go through and read every letter he ever wrote to you.	Or, if he wrote down his thoughts, give me his letter.
+1	I feel like you should go through and read every letter he ever wrote to you.	Or, if his mind be writ, give me his letter.
+0	I really wish I was going to Delhi that day.	I couldn't go to Mantua because I was stuck there.
+1	I really wish I was going to Delhi that day.	So that my speed to Mantua there was stayed.
+0	I don't think that he sent your letter to Romeo.	Then who took my letter to Romeo?
+1	I don't think that he sent your letter to Romeo.	Who bare my letter, then, to Romeo?
+0	My life is so stressful and I'm not happy.	Unhappy fortune!
+1	My life is so stressful and I'm not happy.	Unhappy fortune!
+0	I need a pumpkin spice latte.	Brother, I'll go and bring it to you.
+1	I need a pumpkin spice latte.	Brother, I'll go and bring it thee.
+0	My god... Let me accompany you to the grave.	Now I must go to the tomb alone.
+1	My god... Let me accompany you to the grave.	Now must I to the monument alone.
+0	How long will Juliet wake up?	Within three hours Juliet will wake up.
+1	How long will Juliet wake up?	Within this three hours will fair Juliet wake.
+0	If I keep writing again this will not be the case, sorry.	But I'll write again to Mantua, and I'll keep her in my cell until Romeo comes.
+1	If I keep writing again this will not be the case, sorry.	But I will write again to Mantua, And keep her at my cell till Romeo come.
+0	She was laying on the floor with her eyes closed.	She's shut inside a dead man's tomb!
+1	She was laying on the floor with her eyes closed.	Poor living corse, closed in a dead man's tomb!
+0	Can't wait to start a war with the new guy.	Give me your torch, boy.
+1	Can't wait to start a war with the new guy.	Give me thy torch, boy.
+0	I'm coming over tonight.	Go away and stay apart from me.
+1	I'm coming over tonight.	Hence, and stand aloof.
+0	I'm really about to extinguish the flame.	Put the torch out, so I can't be seen.
+1	I'm really about to extinguish the flame.	Yet put it out, for I would not be seen.
+0	I can give you anything you want.	Give me those flowers.
+1	I can give you anything you want.	Give me those flowers.
+0	I just don't feel like driving this late.	Do as I tell you.
+1	I just don't feel like driving this late.	Do as I bid thee, go.
+0	The young boy's face is covered with fear.	The boy is warning me that someone approaches.
+1	The young boy's face is covered with fear.	The boy gives warning something doth approach.
+0	I'm a married mother of two girls. I've been clear enough to know how to ruin a relationship.	Who's ruining my rituals of true love?
+1	I'm a married mother of two girls. I've been clear enough to know how to ruin a relationship.	What cursed foot wanders this way tonight To cross my obsequies and true love's rite?
+0	The police presence on Oxford St has increased. Is someone burning a candle or some kind of fire?	It's someone with a torch!
+1	The police presence on Oxford St has increased. Is someone burning a candle or some kind of fire?	What with a torch!
+0	There is too much darkness here.	I must hide in the darkness for awhile.
+1	There is too much darkness here.	Muffle me, night, awhile.
+0	I'm off to pick up the first pickaxe and crowbar from the keep.	Give me that pickax and the crowbar.
+1	I'm off to pick up the first pickaxe and crowbar from the keep.	Give me that mattock and the wrenching iron.
+0	Just gonna go to the corner and pretend I'm not here.	I'll go, sir, and I won't bother you.
+1	Just gonna go to the corner and pretend I'm not here.	I will be gone, sir, and not trouble you.
+0	You are the best friend I've ever had.	That's the way to show me friendship.
+1	You are the best friend I've ever had.	So shalt thou show me friendship.
+0	I've gotten so many messages about the same thing. But which one should I take?	Take this.
+1	I've gotten so many messages about the same thing. But which one should I take?	Take thou that.
+0	The man is an absolute joke, a huge joke.	Good and noble young man, don't mess with someone who's desperate.
+1	The man is an absolute joke, a huge joke.	Good gentle youth, tempt not a desperate man.
+0	I can't take you seriously anymore. You're a fake friend you're nothing but a stranger.	Get away from here and leave me.
+1	I can't take you seriously anymore. You're a fake friend you're nothing but a stranger.	Fly hence and leave me.
+0	I wish I have the courage to tell people I'm going to kill myself.	Think about the ones who have died.
+1	I wish I have the courage to tell people I'm going to kill myself.	Think upon these gone.
+0	The fact that they're seeing a scary movie on tv makes me want to throw up.	Let them put fear in your heart.
+1	The fact that they're seeing a scary movie on tv makes me want to throw up.	Let them affright thee.
+0	Your behavior is disgusting. Please stay away from me.	Please, young man, don't make me angry.
+1	Your behavior is disgusting. Please stay away from me.	I beseech thee, youth, Put not another sin upon my head By urging me to fury.
+0	You are the worst person I have ever met.	Oh, go away!
+1	You are the worst person I have ever met.	O, be gone!
+0	I hate living in this house.	Don't stay here, go away.
+1	I hate living in this house.	Stay not, be gone.
+0	What do I have to say to the others when I leave here?	Live, and from now on, say a madman mercifully told you to run away.
+1	What do I have to say to the others when I leave here?	Live, and hereafter say A madman's mercy bid thee run away.
+0	I am the law! And the law is my lawyer!	I'm arresting you as a criminal.
+1	I am the law! And the law is my lawyer!	I do defy thy commination And apprehend thee for a felon here.
+0	I'm gonna go out with someone tonight, I'll be back in a few hours.	Are you going to provoke me?
+1	I'm gonna go out with someone tonight, I'll be back in a few hours.	Wilt thou provoke me?
+0	I would like to fight you, little vampire.	Alright, let's fight, boy!
+1	I would like to fight you, little vampire.	Then have at thee, boy!
+0	I'm hearing a lot of loud yelling outside my window.	Oh Lord, they're fighting!
+1	I'm hearing a lot of loud yelling outside my window.	O Lord, they fight!
+0	I'm at the mall and I can't find my watch.	I'll go call the watch.
+1	I'm at the mall and I can't find my watch.	I will go call the watch.
+0	It's the little mermaid that lives in the deepest sea.	It's Mercutio's relative, noble Count Paris!
+1	It's the little mermaid that lives in the deepest sea.	Mercutio's kinsman, noble County Paris.
+0	I just don't understand why your man talks about me like he knows stuff about me.	What did my man say?
+1	I just don't understand why your man talks about me like he knows stuff about me.	What said my man, when my betossed soul Did not attend him as we rode?
+0	So what do you think the guy would say?	I think he told me Paris was about to marry Juliet.
+1	So what do you think the guy would say?	I think He told me Paris should have married Juliet.
+0	He is not the type of person who would make a joke about someone he just met.	Isn't that what he said?
+1	He is not the type of person who would make a joke about someone he just met.	Said he not so?
+0	What did you just see?	Or was I dreaming?
+1	What did you just see?	Or did I dream it so?
+0	I love the idea of being buried in a magnificent grave.	I'll bury you in a magnificent grave.
+1	I love the idea of being buried in a magnificent grave.	I'll bury thee in a triumphant grave.
+0	Do you know what's the most beautiful thing? A grave.	A grave?
+1	Do you know what's the most beautiful thing? A grave.	A grave?
+0	I can hear her beauty in the tomb.	Juliet lies here, and her beauty fills this tomb with light.
+1	I can hear her beauty in the tomb.	A lantern, slaughtered youth, For here lies Juliet, and her beauty makes This vault a feasting presence full of light.
+0	I can't sleep, but I think I'm going to die.	Death has sucked the honey from your breath, but it has not yet ruined your beauty.
+1	I can't sleep, but I think I'm going to die.	Death, that hath sucked the honey of thy breath, Hath had no power yet upon thy beauty.
+0	So proud of my country, proud to be home to my people.	You haven't been conquered.
+1	So proud of my country, proud to be home to my people.	Thou art not conquered.
+0	I just want you to know that I am an angel in need of a favor.	Oh, what better favor can I do for you than to kill the man who killed you with the same hand that made you die young.
+1	I just want you to know that I am an angel in need of a favor.	O, what more favor can I do to thee, Than with that hand that cut thy youth in twain To sunder his that was thine enemy?
+0	There is no love in the monster. You are a creature made out of the body of another.	Should I believe that death is in love with you, and that the awful monster keeps you here to be his mistress?
+1	There is no love in the monster. You are a creature made out of the body of another.	Shall I believe That unsubstantial death is amorous, And that the lean abhorred monster keeps Thee here in dark to be his paramour?
+0	I shall continue to remain with worms and spiders until I find a new house to live in.	Here, here I'll remain with worms that are your chamber-maids.
+1	I shall continue to remain with worms and spiders until I find a new house to live in.	Here, here will I remain With worms that are thy chamber maids.
+0	I'll wait for you to come back home.	Oh, I'll rest here forever.
+1	I'll wait for you to come back home.	Oh, here Will I set up my everlasting rest, And shake the yoke of inauspicious stars From this world-wearied flesh.
+0	What do we need to observe?	Eyes, look out for the last time!
+1	What do we need to observe?	Eyes, look your last.
+0	I just need someone to hold me.	Arms, make your last embrace!
+1	I just need someone to hold me.	Arms, take your last embrace.
+0	I wonder how many people know about his drugs.	His drugs work quickly.
+1	I wonder how many people know about his drugs.	Thy drugs are quick.
+0	You are gonna die with a kiss.	So I die with a kiss.
+1	You are gonna die with a kiss.	Thus with a kiss I die.
+0	I've never looked so beautiful in my life.	Look at other beautiful girls.
+1	I've never looked so beautiful in my life.	These happy masks that kiss fair ladies'brows, Being black, puts us in mind they hide the fair.
+0	I just want someone to help us with this assignment.	Saint Francis, help me!
+1	I just want someone to help us with this assignment.	Saint Francis be my speed!
+0	Waking up to found my old feet on the gravestone. Just wow.	How often tonight have my old feet stumbled on gravestones!
+1	Waking up to found my old feet on the gravestone. Just wow.	How oft tonight Have my old feet stumbled at graves!, Who's there?
+0	I need to find a friend who's a true friend.	I'm a friend, a friend who knows you well.
+1	I need to find a friend who's a true friend.	Here's one, a friend, and one that knows you well.
+0	I'm just gonna be in my feelings tonight.	God bless you!
+1	I'm just gonna be in my feelings tonight.	Bliss be upon you!
+0	I wish I could see the light that is forming in my bedroom.	Tell me, my good friend, what is that light over there?
+1	I wish I could see the light that is forming in my bedroom.	Tell me, good my friend, What torch is yond that vainly lends his light To grubs and eyeless skulls?
+0	What's the big red thing at the top of the Capulet?	It looks to me like it's burning in the Capulet tomb.
+1	What's the big red thing at the top of the Capulet?	As I discern, It burneth in the Capels'monument.
+0	I've seen this kid on my college campus before but it was just a random dude.	Who is it?
+1	I've seen this kid on my college campus before but it was just a random dude.	Who is it?
+0	So, who's the new Pope?	Romeo.
+1	So, who's the new Pope?	Romeo.
+0	Just found out my brother went to Mizzou.	How long has he been there?
+1	Just found out my brother went to Mizzou.	How long hath he been there?
+0	How long did it take you to get a pic with a person at the beach?	For a full half hour.
+1	How long did it take you to get a pic with a person at the beach?	Full half an hour.
+0	I need to go to the tomb.	Go with me to the tomb.
+1	I need to go to the tomb.	Go with me to the vault.
+0	If you have any questions about the project, I'd love to hear them!	I don't dare, sir.
+1	If you have any questions about the project, I'd love to hear them!	I dare not, sir.
+0	I am staying. I just need you to follow me.	Stay, then.
+1	I am staying. I just need you to follow me.	Stay, then.
+0	So who is going to the game tonight?	I'll go alone.
+1	So who is going to the game tonight?	I'll go alone.
+0	It's getting dark and we can't see anything clearly.	I'm suddenly afraid.
+1	It's getting dark and we can't see anything clearly.	Fear comes upon me.
+0	There was a big explosion here just now. What happened?	Oh, I'm very scared something awful has happened.
+1	There was a big explosion here just now. What happened?	Oh, much I fear some ill unthrifty thing.
+0	What did you dream about when you were sleeping under a yew tree?	As I slept under this yew-tree here, I had a dream that my master and someone else were fighting and that my master killed him.
+1	What did you dream about when you were sleeping under a yew tree?	As I did sleep under this yew tree here, I dreamt my master and another fought, And that my master slew him.
+0	I am now covered in blood.	What is this blood that stains the stony entrance of this tomb?
+1	I am now covered in blood.	Romeo!, Alack, alack, what blood is this, which stains The stony entrance of the sepulcher?
+0	Oh, I am a friar, and I've seen you.	Oh friendly friar!
+1	Oh, I am a friar, and I've seen you.	O comfortable Friar!
+0	I think your husband went to the wrong store.	Where is my husband?
+1	I think your husband went to the wrong store.	Where is my lord?
+0	I miss you so much! Where are you?	I remember very well where I should be, and here I am.
+1	I miss you so much! Where are you?	I do remember well where I should be, And there I am.
+0	I just want a little Romeo in my life.	Where is my Romeo?
+1	I just want a little Romeo in my life.	Where is my Romeo?
+0	Hey there! She said to ask if you hear any noise.	I hear some noise.
+1	Hey there! She said to ask if you hear any noise.	I hear some noise.
+0	I have returned to my tomb.	Lady, come out of the tomb.
+1	I have returned to my tomb.	Lady, come from that nest Of death, contagion, and unnatural sleep.
+0	I'm glad we have the power to destroy evil.	A greater power than we can fight has ruined our plan.
+1	I'm glad we have the power to destroy evil.	A greater power than we can contradict Hath thwarted our intents.
+0	I wish someone would give me a ride to school today.	Come, come away.
+1	I wish someone would give me a ride to school today.	Come, come away.
+0	He was never heard from after that.	Your husband lies dead there, and Paris too.
+1	He was never heard from after that.	Thy husband in thy bosom there lies dead, And Paris too.
+0	I want to join a choir.	Come, I'll place you among the sisterhood of holy nuns.
+1	I want to join a choir.	Come, I'll dispose of thee Among a sisterhood of holy nuns.
+0	What do you think of that cup?	It's a cup, closed in my true love's hand?
+1	What do you think of that cup?	A cup, closed in my true love's hand?
+0	My friend's died yesterday. I'm so sad.	Poison, I see, has been the cause of his death.
+1	My friend's died yesterday. I'm so sad.	Poison, I see, hath been his timeless end., O churl, drunk all, and left no friendly drop To help me after?
+0	I will kiss you on the lips, I swear.	I will kiss your lips.
+1	I will kiss you on the lips, I swear.	I will kiss thy lips.
+0	I can't help but feel sorry for the people who have to suffer those beings.	Perhaps there's still some poison on them, to make me die with a medicinal kiss.
+1	I can't help but feel sorry for the people who have to suffer those beings.	Haply some poison yet doth hang on them, To make me die with a restorative.
+0	I think this is noise.	Oh, noise?
+1	I think this is noise.	Yea, noise?
+0	I'll be waiting for you in the alley.	Then I'll be quick.
+1	I'll be waiting for you in the alley.	Then I'll be brief.
+0	I found a knife!	Oh, good, a knife!
+1	I found a knife!	O happy dagger, This is thy sheath.
+0	I think you are getting sick.	Rust inside my body and let me die.
+1	I think you are getting sick.	There rust and let me die.
+0	I'd love to visit the museum and get my mind off of work.	This is the place.
+1	I'd love to visit the museum and get my mind off of work.	This is the place.
+0	I'm just going to assume there's a torch in this burning building.	There, where the torch is burning.
+1	I'm just going to assume there's a torch in this burning building.	There, where the torch doth burn.
+0	How is the ground? I hear a lot of people moaning.	The ground is bloody.
+1	How is the ground? I hear a lot of people moaning.	The ground is bloody., Search about the churchyard.
+0	I just came back from the zoo. This is a picture of a chicken I accidentally stepped on!	This is a pitiful sight!
+1	I just came back from the zoo. This is a picture of a chicken I accidentally stepped on!	Pitiful sight!
+0	I wish I could go to a church in Atlanta.	Go, tell the Prince.
+1	I wish I could go to a church in Atlanta.	Here lies the county slain, And Juliet bleeding, warm and newly dead, Who here hath lain these two days buried., Go, tell the Prince.
+0	Does anyone know where to get some free coffee?	Run to the Capulets.
+1	Does anyone know where to get some free coffee?	Run to the Capulets.
+0	The Montagues are still sleeping.	Wake up the Montagues.
+1	The Montagues are still sleeping.	Raise up the Montagues.
+0	I'm having trouble with my search function, help?	Have some others search.
+1	I'm having trouble with my search function, help?	Some others search.
+0	Who does this man work with?	Here's Romeo's man.
+1	Who does this man work with?	Here's Romeo's man.
+0	Where is my little bae? I thought he was in the garden again.	We found him in the churchyard.
+1	Where is my little bae? I thought he was in the garden again.	We found him in the churchyard.
+0	How long can we keep this guy in jail?	Hold him in custody until the Prince gets here.
+1	How long can we keep this guy in jail?	Hold him in safety till the Prince come hither.
+0	The black friar runs over to you with a big sigh.	Here is a friar who's trembling, sighing and weeping.
+1	The black friar runs over to you with a big sigh.	Here is a friar that trembles, sighs and weeps.
+0	"I will find my father's grave, " the knight said as he walked to these graves.	We took this pickax and this shovel from him, as he was walking from this side of the graveyard.
+1	"I will find my father's grave, " the knight said as he walked to these graves.	We took this mattock and this spade from him As he was coming from this churchyard's side.
+0	It's very strange that I received an email from today.	Very suspicious.
+1	It's very strange that I received an email from today.	A great suspicion.
+0	My friar just took a hit of poison. I'm going to find a doctor.	Hold the friar too.
+1	My friar just took a hit of poison. I'm going to find a doctor.	Stay the friar too.
+0	It's only 5:40 AM on a Saturday, I'm not sure what kind of crime this is.	What crimes happen so early in the morning that I have to wake up before the usual time?
+1	It's only 5:40 AM on a Saturday, I'm not sure what kind of crime this is.	What misadventure is so early up That calls our person from our morning rest?
+0	I can hear them from a mile away.	What's the problem, that they cry out so loud?
+1	I can hear them from a mile away.	What should it be that is so shrieked abroad?
+0	The streets are full of people screaming and throwing things at each other. This is not okay!	Some people in the street are crying "Romeo." Some are crying "Juliet, " and some are crying "Paris." They're all running in an open riot toward our tomb.
+1	The streets are full of people screaming and throwing things at each other. This is not okay!	Oh, the people in the street cry "Romeo, " Some "Juliet, " and some "Paris, " and all run With open outcry toward our monument.
+0	A very special guest at my job has just been killed by a raccoon.	Investigate how this foul murder came about.
+1	A very special guest at my job has just been killed by a raccoon.	Search, seek, and know how this foul murder comes.
+0	There's a ghost in my bedroom I can't see.	Oh heavens!
+1	There's a ghost in my bedroom I can't see.	O heavens!
+0	I hope my baby girl is okay!!!	Oh wife, look at how our daughter bleeds!
+1	I hope my baby girl is okay!!!	O wife, look how our daughter bleeds!
+0	Your daughter is very protective of Montague's knife.	That knife should be in its sheath on that Montague's back, but instead it's mis-sheathed in my daughter's breast.
+1	Your daughter is very protective of Montague's knife.	This dagger hath mista'en, for, lo, his house Is empty on the back of Montague, And it mis-sheathed in my daughter's bosom.
+0	The sight of death is always like a bell that rings every night at midnight.	This sight of death is like a bell that warns me I'm old and I'll die soon.
+1	The sight of death is always like a bell that rings every night at midnight.	This sight of death is as a bell, That warns my old age to a sepulcher.
+0	Are you cry because of your beautiful wife?	Oh, my liege, my wife died tonight.
+1	Are you cry because of your beautiful wife?	Alas, my liege, my wife is dead tonight.
+0	Sadness over your son's exile stopped her breath?	Sadness over my son's exile stopped her breath.
+1	Sadness over your son's exile stopped her breath?	Grief of my son's exile hath stopped her breath.
+0	If you don't like being reminded that your old age is coming soon, you're wrong.	What further pain must I endure in my old age?
+1	If you don't like being reminded that your old age is coming soon, you're wrong.	What further woe conspires against mine age?
+0	Can't believe I have to go to UNI tomorrow.	Look, and you'll see.
+1	Can't believe I have to go to UNI tomorrow.	Look, and thou shalt see.
+0	I'm trying to play the taken king and the game keeps saying error when I try to start it.	In the meantime, hold on, and be patient.
+1	I'm trying to play the taken king and the game keeps saying error when I try to start it.	Meantime forbear, And let mischance be slave to patience., Bring forth the parties of suspicion.
+0	Who is the greatest man?	I am the greatest, but I was able to do the least.
+1	Who is the greatest man?	I am the greatest, able to do least, Yet most suspected, as the time and place Doth make against me, of this direful murder.
+0	Have you got your own understanding?	I have already condemned and excused myself.
+1	Have you got your own understanding?	And here I stand, both to impeach and purge, Myself condemned and myself excused.
+0	It's too early to make decisions, this is a problem.	Tell us what you know about this affair.
+1	It's too early to make decisions, this is a problem.	Then say at once what thou dost know in this.
+0	You're very late to the party, but do you know that story of a guy kissing a girl?	I will be brief because I'm not going to live long enough to tell a boring story.
+1	You're very late to the party, but do you know that story of a guy kissing a girl?	I will be brief, for my short date of breath Is not so long as is a tedious tale.
+0	I wonder how she woke up.	In the meantime I wrote to Romeo and told him to come here on this awful night to help remove her from her temporary grave when the sleeping potion wore off.
+1	I wonder how she woke up.	Meantime I writ to Romeo, That he should hither come as this dire night, To help to take her from her borrowed grave, Being the time the potion's force should cease.
+0	Do you know what sucks? Having the chance to learn the language in front of your parents.	I know all of this.
+1	Do you know what sucks? Having the chance to learn the language in front of your parents.	What can he say in this?
+0	What did you do?	I brought my master news of Juliet's death.
+1	What did you do?	Their course of love, the tidings of her death.
+0	I'm gonna write you a letter.	Give me the letter.
+1	I'm gonna write you a letter.	Montague!
+0	I know you've got some unfinished business here, but I need to talk to you about some things.	Oh, brother Montague, give me your hand.
+1	I know you've got some unfinished business here, but I need to talk to you about some things.	O brother Montague, give me thy hand.
+0	When someone requests something and you can't say no, you say " eh " And they say " okay. " Good.	But what do you say to my request?
+1	When someone requests something and you can't say no, you say " eh " And they say " okay. " Good.	But now, my lord, what say you to my suit?
+0	I really don't care what anyone says. You're all good.	I can only repeat what I've said before.
+1	I really don't care what anyone says. You're all good.	But saying o'er what I have said before.
+0	She's not even fourteen years old. I can't believe it.	My daughter is still very young.
+1	She's not even fourteen years old. I can't believe it.	My child is yet a stranger in the world.
+0	I hope the girl is okay. She is still too young.	She's not even fourteen years old.
+1	I hope the girl is okay. She is still too young.	She hath not seen the change of fourteen years.
+0	Kylie Jenner is a terrible mother. She probably doesn't even understand how to breastfeed.	Girls younger than she often marry and become happy mothers.
+1	Kylie Jenner is a terrible mother. She probably doesn't even understand how to breastfeed.	Younger than she are happy mothers made.
+0	When the " old " ones marry young, girls grow up too soon.	Girls who marry so young grow up too soon.
+1	When the " old " ones marry young, girls grow up too soon.	And too soon marred are those so early made.
+0	I want to charms her. She needs it.	But go ahead and charm her, gentle Paris ; make her love you.
+1	I want to charms her. She needs it.	But woo her, gentle Paris, get her heart.
+0	It's your birthday, isn't it?	Tonight I'm having a feast that we've celebrated for many years.
+1	It's your birthday, isn't it?	This night I hold an old accustomed feast, Whereto I have invited many a guest Such as I love.
+0	It's supposed to rain tonight. I have a very strange feeling it's gonna happen.	At my humble house tonight, you can expect to see dazzling stars that walk on the ground and light the sky from below.
+1	It's supposed to rain tonight. I have a very strange feeling it's gonna happen.	From forth the fatal loins of these two foes A pair of star-crossed lovers take their life, Whose misadventured piteous overthrows Doth with their death bury their parents'strife.
+0	What's the latest in world news stories about the Kolkata families?	Two unlucky children of these enemy families become lovers and commit suicide.
+1	What's the latest in world news stories about the Kolkata families?	Such comfort as do lusty young men feel When well-appareled April on the heel Of limping winter treads.
+0	I wonder what happened to the other members of the Hart family.	Their unfortunate deaths put an end to their parents'feud.
+1	I wonder what happened to the other members of the Hart family.	Even such delight Among fresh fennel buds shall you this night Inherit at my house.
+0	I want to go grocery shopping but no one around.	Come along with me.
+1	I want to go grocery shopping but no one around.	Go, sirrah, trudge about Through fair Verona.
+0	How do you manage to get so many people?	Find the people whose names are on this list?
+1	How do you manage to get so many people?	Find them out whose names are written here?
+0	I'm not sure I understand. What is your intent with these rules?	It is written that shoemakers and tailors should play with each others'tools, that fisherman should play with paints, and painters should play with with fishing nets.
+1	I'm not sure I understand. What is your intent with these rules?	It is written, that the shoemaker should meddle with his yard and the tailor with his last, the fisher with his pencil and the painter with his nets.
+0	I'm still waiting for your confirmation that I'm on the list.	But I've been sent to find the people whose names are written on this list, and I can't read!
+1	I'm still waiting for your confirmation that I'm on the list.	But I am sent to find those persons whose names are here writ, and can never find what names the writing person hath here writ.
+0	We need to discuss the event for an hour.	But here come some people, right in the nick of time.
+1	We need to discuss the event for an hour.	Take thou some new infection to thy eye, And the rank poison of the old will die.
+0	When did you cure my arm?	For when you cut your shin.
+1	When did you cure my arm?	Your plantain leaf is excellent for that.
+0	I played an hour's game in class.	Romeo, are you crazy?
+1	I played an hour's game in class.	Why Romeo, art thou mad?
+0	So... how are you this fine morning sir?	I'm locked up in a prison and deprived of food.
+1	So... how are you this fine morning sir?	Not mad, but bound more than a madman is, Shut up in prison, kept without my food, Whipped and tormented and, Good e'en, good fellow.
+0	It must be terrible to be whipped and tortured.	I'm whipped and tortured, May God give you a good evening.
+1	It must be terrible to be whipped and tortured.	God 'i'good e'en.
+0	I'm sorry, but the correct answer is this word.	Excuse me, sir, do you know how to read?
+1	I'm sorry, but the correct answer is this word.	I pray, sir, can you read?
+0	What do you find in the pain?	I can read my own fortune in my misery.
+1	What do you find in the pain?	Ay, mine own fortune in my misery.
+0	These are books where I learn how to be a good wife.	Perhaps you've learned from life and not from books.
+1	These are books where I learn how to be a good wife.	Perhaps you have learned it without book.
+0	I don't see anything wrong with the video.	But please tell me, can you read anything you see?
+1	I don't see anything wrong with the video.	But I pray, can you read anything you see?
+0	I wonder if you're a fan of the Greek and Roman mythology?	Yes, if I know the language and the letters.
+1	I wonder if you're a fan of the Greek and Roman mythology?	Ay, if I know the letters and the language.
+0	You need to follow my instructions strictly.	I see.
+1	You need to follow my instructions strictly.	Ye say honestly.
+0	You're now blocked from following me and get out of here.	Well, that's an Stay, fellow.
+1	You're now blocked from following me and get out of here.	Stay, fellow.
+0	I can't read, but I can write.	I can read.
+1	I can't read, but I can write.	I can read.
+0	Who are the most powerful man in the world?	Signor Valentio and his cousin Tybalt, Lucio and the lively Helena." That's a nice group of people.
+1	Who are the most powerful man in the world?	Seigneur Valentio and his cousin Tybalt ; Lucio and the lively Helena." A fair assembly.
+0	The boys are coming to get me.	Where are they supposed to come?
+1	The boys are coming to get me.	Whither should they come?
+0	Anyone else up for some partying tonight?	Up.
+1	Anyone else up for some partying tonight?	Up.
+0	I have to go to the fair but I'm also lazy.	Where?
+1	I have to go to the fair but I'm also lazy.	Whither?
+0	What are we supposed to do today?	To supper?
+1	What are we supposed to do today?	To supper?
+0	I want to go to the movies tonight!	To our house.
+1	I want to go to the movies tonight!	To our house.
+0	I got this house.	Whose house?
+1	I got this house.	Whose house?
+0	I need to know where you're living right now?	My master's house.
+1	I need to know where you're living right now?	My master's.
+0	Hey, did you hear about the crazy guy in the white van?	Indeed, I should have asked you before who he was.
+1	Hey, did you hear about the crazy guy in the white van?	Indeed, I should have asked thee that before.
+0	When will I be able to tell someone my true colors?	Now I'll tell you so you don't have to ask.
+1	When will I be able to tell someone my true colors?	Now I'll tell you without asking.
+0	My Master is the Great and rich Smith.	My master is the great and rich Capulet, and if you don't belong to the house of Montague, please come and drink a cup of wine.
+1	My Master is the Great and rich Smith.	My master is the great rich Capulet, and if you be not of the house of Montagues, I pray come and crush a cup of wine.
+0	Good morning all! Hope you have a nice day!	Have a nice day!
+1	Good morning all! Hope you have a nice day!	Rest you merry!
+0	What's on the agenda this Saturday?	The beautiful Rosaline whom you love so much will be at Capulet's traditional feast, along with every beautiful woman in Verona.
+1	What's on the agenda this Saturday?	At this same ancient feast of Capulet's Sups the fair Rosaline whom thou so loves With all the admired beauties of Verona.
+0	How can you say Kylie is more attractive than Ariana Grande?	Go there and compare her objectively to some other girls I'll show you.
+1	How can you say Kylie is more attractive than Ariana Grande?	Go thither, and with unattainted eye Compare her face with some that I shall show, And I will make thee think thy swan a crow.
+0	She is a woman that is more beautiful than the one you love.	A woman more beautiful than the one I love?
+1	She is a woman that is more beautiful than the one you love.	One fairer than my love?
+0	You must be the most beautiful person alive.	The sun itself has never seen anyone as beautiful since the world began.
+1	You must be the most beautiful person alive.	The all-seeing sun Ne'er saw her match since first the world begun.
+0	Anyone wanna go to the beach with me?	I'll go with you.
+1	Anyone wanna go to the beach with me?	I'll go along, no such sight to be shown, But to rejoice in splendor of mine own.
+0	Your daughter is very upset with me.	Nurse, where's my daughter?
+1	Your daughter is very upset with me.	Nurse, where's my daughter?
+0	I guess my mom is watching the Disney channel.	Tell her to come to me.
+1	I guess my mom is watching the Disney channel.	Call her forth to me.
+0	I'm going to make my mom take me back to my room. Why hasn't she come yet?	I swear to you by my virginity at age twelve, I already told her to come.
+1	I'm going to make my mom take me back to my room. Why hasn't she come yet?	Now, by my maidenhead at twelve year old I bade her come.
+0	I just wanna be in one of your cute dresses and cuddle you.	Come on!
+1	I just wanna be in one of your cute dresses and cuddle you.	What, lamb!
+0	If someone calls you ugly you don't answer.	Who's calling me?
+1	If someone calls you ugly you don't answer.	How now, who calls?
+0	Who made this delicious food for me?	Your mother.
+1	Who made this delicious food for me?	Your mother.
+0	I really want to talk to you.	Madam, I'm here.
+1	I really want to talk to you.	Madam, I am here.
+0	The children are really at a very good age.	You know how young my daughter is.
+1	The children are really at a very good age.	Thou know'st my daughter's of a pretty age.
+0	How old is your aunt? Is she still young?	Yes, I know her age down to the hour.
+1	How old is your aunt? Is she still young?	Faith, I can tell her age unto an hour.
+0	Kylie Jenner is only 14?	She's not even fourteen.
+1	Kylie Jenner is only 14?	She's not fourteen.
+0	How many teeth do you have?	I'd bet fourteen of my own teeth, but, I'm sorry to say, I only have four teeth, she's not fourteen.
+1	How many teeth do you have?	I'll lay fourteen of my teeth, and yet, to my teen be it spoken, I have but four, she is not fourteen.
+0	My sister has lost her mind. She said she would be twenty on the night of Lammas Eve.	Whether it's even or odd, of all the days in the year, on the night of Lammas Eve, she'll be fourteen.
+1	My sister has lost her mind. She said she would be twenty on the night of Lammas Eve.	Even or odd, of all days in the year, Come Lammas Eve at night shall she be fourteen.
+0	When was Mary Magdelene born?	She and Susan, God rest her and all Christian souls, were born on the same day.
+1	When was Mary Magdelene born?	Susan and she, God rest all Christian souls!, Were of an age.
+0	I'm sorry that Susan died but at the same time, I'm glad that Susan dies.	Well, Susan died and is with God.
+1	I'm sorry that Susan died but at the same time, I'm glad that Susan dies.	Well, Susan is with God.
+0	I'm watching the series. I don't hate her. I just think she was too good.	She was too good for me.
+1	I'm watching the series. I don't hate her. I just think she was too good.	She was too good for me.
+0	I'm not even sure if she is 14.	But like I said, on the night of Lammas Eve, she will be fourteen.
+1	I'm not even sure if she is 14.	But, as I said, On Lammas Eve at night shall she be fourteen.
+0	She's a great actor, I just hope she'll have a good performance as Emma Roberts.	Yes, she will.
+1	She's a great actor, I just hope she'll have a good performance as Emma Roberts.	That shall she.
+0	You remember that time we made out on the bus?	Indeed, I remember it well.
+1	You remember that time we made out on the bus?	Marry, I remember it well.
+0	Just got back from the earthquake. Looks like everything is back to normal now.	It's been eleven years since the earthquake.
+1	Just got back from the earthquake. Looks like everything is back to normal now.	Tis since the earthquake now eleven years, And she was weaned, I never shall forget it, Of all the days of the year, upon that day.
+0	I need to drink my bitter wormwood. Where is the wormwood?	I had put bitter wormwood on my breast as I was sitting in the sun, under the wall of the dovehouse.
+1	I need to drink my bitter wormwood. Where is the wormwood?	For I had then laid wormwood to my dug, Sitting in the sun under the dovehouse wall.
+0	There is an earthquake warning for dove huts at 10:30 pm.	Then the dovehouse shook with the earthquake.
+1	There is an earthquake warning for dove huts at 10:30 pm.	Shake! " quoth the dovehouse.
+0	You need to get out of this fantasy world.	There was no need to tell me to get out of there.
+1	You need to get out of this fantasy world.	Twas no need, I trow, To bid me trudge.
+0	I am so unlucky that I fell down.	Oh, " he said, "Did you fall on your face?
+1	I am so unlucky that I fell down.	Yea, " quoth he, "Dost thou fall upon thy face?
+0	I'm not drinking this week.	You'll Enough of this.
+1	I'm not drinking this week.	And, pretty fool, it stinted and said "ay." Enough of this.
+0	So how do we make this guy remove his mask?	Please be quiet.
+1	So how do we make this guy remove his mask?	I pray thee, hold thy peace.
+0	Is it too early in the morning to start working?	Yes, madam.
+1	Is it too early in the morning to start working?	Yes, madam.
+0	I can't believe my best friend is crying right now.	It was a painful bruise, and she was crying bitterly.
+1	I can't believe my best friend is crying right now.	Yea, " quoth my husband, "Fall'st upon thy face?
+0	Did you fall on your face or something?	Yes, " said my husband, "Did you fall on your face?
+1	Did you fall on your face or something?	Thou wilt fall backward when thou comest to age.
+0	I need to stop crying. I'm so bad sometimes.	You'll fall backward when you grow up, won't you, Jule? " And she stopped crying and said, "Yes." Now you stop too, Nurse, please.
+1	I need to stop crying. I'm so bad sometimes.	Wilt thou not, Jule? " It stinted and said "ay." And stint thou too, I pray thee, Nurse, say I.
+0	God, please help me, I am in a foul situation.	May God choose you to receive his grace.
+1	God, please help me, I am in a foul situation.	God mark thee to his grace!
+0	I'm just a baby in a world of hurt.	You were the prettiest baby I ever nursed.
+1	I'm just a baby in a world of hurt.	Thou wast the prettiest babe that e'er I nursed.
+0	My boyfriend is so sweet, I swear.	If I live to see you get married someday, all my wishes will come true.
+1	My boyfriend is so sweet, I swear.	An I might live to see thee married once, I have my wish.
+0	I hate being a bridal party princess.	Tell me, my daughter Juliet, what is your attitude about getting married?
+1	I hate being a bridal party princess.	Tell me, daughter Juliet, How stands your disposition to be married?
+0	You won the first prize last game.	It is an honor that I don't dream of.
+1	You won the first prize last game.	It is an honor that I dream not of.
+0	I just need a boyfriend and a job.	Well, start thinking about marriage now.
+1	I just need a boyfriend and a job.	Well, think of marriage now.
+0	I wonder how many of these girls will be mothers.	Here in Verona there are girls younger than you, girls from noble families, who have already become mothers.
+1	I wonder how many of these girls will be mothers.	Younger than you Here in Verona, ladies of esteem Are made already mothers.
+0	I'm a virgin, don't judge me.	By my count, I was already your mother at just about your age, while you remain a virgin.
+1	I'm a virgin, don't judge me.	By my count, I was your mother much upon these years That you are now a maid.
+0	I'm gonna marry the valiant Pari.	Well then, I'll say this quickly : the valiant Paris wants you as his bride.
+1	I'm gonna marry the valiant Pari.	Thus then in brief : The valiant Paris seeks you for his love.
+0	My man got a beautiful little apartment in the city.	What a man, young lady.
+1	My man got a beautiful little apartment in the city.	A man, young lady!
+0	I love this summertime in Verona.	Summertime in Verona has no flower as fine as him.
+1	I love this summertime in Verona.	Verona's summer hath not such a flower.
+0	You don't lose anything if you never try.	Lose nothing?
+1	You don't lose anything if you never try.	What say you?
+0	How do you know if you find him attractive?	I'll look at him and try to like him, at least if what I see is likable.
+1	How do you know if you find him attractive?	I'll look to like if looking liking move.
+0	When I say I'm going to stop you, he has already stopped me.	But I won't let myself fall for him any more than your permission allows.
+1	When I say I'm going to stop you, he has already stopped me.	But no more deep will I endart mine eye Than your consent gives strength to make it fly.
+0	What happened to the world? What's going on?	Everything's out of control.
+1	What happened to the world? What's going on?	I must hence to wait.
+0	I really want to get my hair cut.	Please, follow straight after me.
+1	I really want to get my hair cut.	I beseech you, follow straight.
+0	Hey guys. Am I just wondering if you guys follow me?	We'll follow you.
+1	Hey guys. Am I just wondering if you guys follow me?	We follow thee., Juliet, the county stays.
+0	I'm trying to get a man like you, right now.	Go, girl, look for a man who'll give you happy nights at the end of happy days.
+1	I'm trying to get a man like you, right now.	Go, girl, seek happy nights to happy days.
+0	We're in San Antonio and I'm so happy.	What will we say is our excuse for being here?
+1	We're in San Antonio and I'm so happy.	What, shall this speech be spoke for our excuse?
+0	We need to enter with apologizing.	Or should we enter without apologizing?
+1	We need to enter with apologizing.	Or shall we on without apology?
+0	How did the author of the article explain himself?	It's out of fashion to give lengthy explanations like that.
+1	How did the author of the article explain himself?	The date is out of such prolixity.
+0	They'll judge us on our looks, our culture, their opinions, and our beliefs.	Let them judge us however they please.
+1	They'll judge us on our looks, our culture, their opinions, and our beliefs.	But let them measure us by what they will.
+0	What else do you need?	Give me a torch.
+1	What else do you need?	Give me a torch.
+0	I want to go to the dance tonight.	I don't want to dance.
+1	I want to go to the dance tonight.	I am not for this ambling.
+0	Dancing is a fine line between foolhardiness and madness.	No, noble Romeo, you've got to dance.
+1	Dancing is a fine line between foolhardiness and madness.	Nay, gentle Romeo, we must have you dance.
+0	I think there is a person who interrupts me when my ex-boyfriend talks to me on the phone.	Not me, believe me.
+1	I think there is a person who interrupts me when my ex-boyfriend talks to me on the phone.	Not I, believe me.
+0	What the heck is this, a pair of ballet shoes?	You're wearing dancing shoes with nimble soles.
+1	What the heck is this, a pair of ballet shoes?	You have dancing shoes With nimble soles.
+0	Do your soul is made up of lead?	My soul is made out of lead, and it's so heavy it keeps me stuck on the ground so I can't move.
+1	Do your soul is made up of lead?	I have a soul of lead So stakes me to the ground I can not move.
+0	I have to be honest. I'm not a lover.	You're a lover.
+1	I have to be honest. I'm not a lover.	You are a lover.
+0	I'd love to fly, but I can't do it for more than a few hours.	Take Cupid's wings and fly higher than the average man.
+1	I'd love to fly, but I can't do it for more than a few hours.	Borrow Cupid's wings And soar with them above a common bound.
+0	Why can't you fly high with his cheerful feathers?	His arrow has pierced me too deeply, so I can't fly high with his cheerful feathers.
+1	Why can't you fly high with his cheerful feathers?	I am too sore enpierced with his shaft To soar with his light feathers, and so bound, I can not bound a pitch above dull woe.
+0	You sink to the end of the tether.	I sink under the heavy weight of love.
+1	You sink to the end of the tether.	Under love's heavy burden do I sink.
+0	I'm pretty sure you are the only people taking their garbage.	We won't take their garbage.
+1	I'm pretty sure you are the only people taking their garbage.	I mean, an we be in choler, we'll draw.
+0	I hate you sometimes because you hit hard for me.	I hit hard when I'm angry.
+1	I hate you sometimes because you hit hard for me.	I strike quickly, being moved.
+0	"I'm mad at you! " She snapped as she ran.	Angry enough to run away.
+1	"I'm mad at you! " She snapped as she ran.	But thou art not quickly moved to strike.
+0	I'm going to start a fight with someone tomorrow because I'm so upset!	You won't stand and fight.
+1	I'm going to start a fight with someone tomorrow because I'm so upset!	To move is to stir, and to be valiant is to stand.
+0	What do you think of a dog in that house?	A dog from that house will make me angry enough to take a stand.
+1	What do you think of a dog in that house?	A dog of that house shall move me to stand.
+0	I just want to sink. But I don't want to sink with love.	If you sink, you're dragging love down.
+1	I just want to sink. But I don't want to sink with love.	And to sink in it, should you burthen love, Too great oppression for a tender thing.
+0	You can be anything for your love.	Is love really tender?
+1	You can be anything for your love.	Is love a tender thing?
+0	The whole town hates that dog.	I think it's too rough, too rude, too rowdy, and it pricks like a thorn.
+1	The whole town hates that dog.	It is too rough, Too rude, too boisterous, and it pricks like thorn.
+0	Love is a game that you play and it doesn't matter who you are.	If love plays rough with you, play rough with Come on, let's knock and go in.
+1	Love is a game that you play and it doesn't matter who you are.	If love be rough with you, be rough with love.
+0	I love dancing with playful people.	Let playful people with light hearts dance.
+1	I love dancing with playful people.	Let wantons light of heart Tickle the senseless rushes with their heels.
+0	We wouldn't have to go outside at all.	Come on, we're wasting precious daylight.
+1	We wouldn't have to go outside at all.	Come, we burn daylight, ho!
+0	I want to go to haunted houses.	Let's go!
+1	I want to go to haunted houses.	Nay, that's not so.
+0	Are you guys ready for some football?	No we're not, it's night.
+1	Are you guys ready for some football?	We waste our lights in vain, like lights by day.
+0	It's the weekend and we need to go to a masquerade.	We mean well by going to this masquerade ball, but it's not smart of us to go.
+1	It's the weekend and we need to go to a masquerade.	And we mean well in going to this mask, But 'tis no wit to go.
+0	I feel like I'm the only person who doesn't like Haze.	Why, may I ask?
+1	I feel like I'm the only person who doesn't like Haze.	Why, may one ask?
+0	You don't seem to have a good rest.	I had a dream last night.
+1	You don't seem to have a good rest.	I dreamt a dream tonight.
+0	I actually cried while watching the GOP debate.	So did I.
+1	I actually cried while watching the GOP debate.	And so did I.
+0	Your dream is to be a scientist. That's great.	Well, what was your dream?
+1	Your dream is to be a scientist. That's great.	Well, what was yours?
+0	I had a dream last night that I was a rapper.	My dream told me that dreamers often lie.
+1	I had a dream last night that I was a rapper.	That dreamers often lie.
+0	Why do the people who lie about their dreams always have to be the most gullible people ever?	They lie in bed while they dream about the truth.
+1	Why do the people who lie about their dreams always have to be the most gullible people ever?	In bed asleep while they do dream things true.
+0	I think I'm in love with Who's Queen?	Oh, then I see you've been with Who's Queen Mab?
+1	I think I'm in love with Who's Queen?	Oh, then, I see Queen Mab hath been with you.
+0	The Queen is not what many people think she is. she is an embodiment of Britishness, the people's Parliament.	Sometimes she rides over a courtier's lips, and he dreams of making money off of someone.
+1	The Queen is not what many people think she is. she is an embodiment of Britishness, the people's Parliament.	Sometime she gallops o'er a courtier's nose, And then dreams he of smelling out a suit.
+0	She is just trying to make a priest happy, you know?	Sometimes she tickles a priest's nose with a Enough, enough!
+1	She is just trying to make a priest happy, you know?	And sometime comes she with a tithe-pig's tail Tickling a parson's nose as he lies asleep, Then he dreams of another benefice.
+0	If you see me talk about Futurama, please yell at me.	Mercutio, be quiet.
+1	If you see me talk about Futurama, please yell at me.	This is she, Peace, peace, Mercutio, peace!
+0	The wind is blowing really hard in the East.	The wind you're talking about is blowing us off our course.
+1	The wind is blowing really hard in the East.	This wind you talk of, blows us from ourselves.
+0	We're going to another restaurant later tonight.	Dinner is over, and we're going to get there too late.
+1	We're going to another restaurant later tonight.	Supper is done, and we shall come too late.
+0	The journey begins with you!	Onward, lover boys!
+1	The journey begins with you!	On, lusty gentlemen.
+0	I've been playing drums all morning and what did you do?	Beat the drum.
+1	I've been playing drums all morning and what did you do?	Strike, drum.
+0	So I just found a place to stay in Potpan.	Where's Potpan?
+1	So I just found a place to stay in Potpan.	Where's Potpan, that he helps not to take away?
+0	I have to admit that the men I've met in this world are dirty.	When only one or two men have all the good manners, and even they are dirty, things are bad.
+1	I have to admit that the men I've met in this world are dirty.	When good manners shall lie all in one or two men's hands, and they unwashed too, 'tis a foul thing.
+0	What do we do for my dining room? I'm about to make a move.	Take away the stools, the sideboards, and the plates.
+1	What do we do for my dining room? I'm about to make a move.	Away with the joint-stools, remove the court-cupboard, look to the plate.
+0	I love marzipan and want to eat it all.	You, good friend, save me a piece of marzipan, and if you love me, have the porter let in Susan Grindstone and Nell.
+1	I love marzipan and want to eat it all.	Good thou, save me a piece of marchpane, and, as thou loves me, let the porter let in Susan Grindstone and Nell., Antony and Potpan!
+0	Hey, are you ready to go to the dance tonight?	Yes, boy, I'm ready.
+1	Hey, are you ready to go to the dance tonight?	Ay, boy, ready.
+0	I've just been found in the Great chambers of Gray.	They're looking for you in the great chamber.
+1	I've just been found in the Great chambers of Gray.	You are looked for and called for, asked for and sought for, in the great chamber.
+0	I want to be in a whole different state for school right now.	We can't be in two places at once, both here and there!
+1	I want to be in a whole different state for school right now.	We can not be here and there too.
+0	Happy Birthday to the best boy in the world. Have a good one tonight.	Cheers, boys.
+1	Happy Birthday to the best boy in the world. Have a good one tonight.	Cheerly, boys.
+0	Here comes the man with the longest life.	Be quick for a while and let the one who lives the longest take everything.
+1	Here comes the man with the longest life.	Be brisk 0awhile, and the longer liver take all.
+0	I'm a new member of the team.	Welcome, gentlemen.
+1	I'm a new member of the team.	Welcome, gentlemen!
+0	I really need to go outside, but I keep being shy.	Whichever of you acts shy, I'll swear she has corns.
+1	I really need to go outside, but I keep being shy.	She that makes dainty, She, I'll swear, hath corns.
+0	There's so much in life that we don't know how far we've come since high school.	I swear, it must be thirty years.
+1	There's so much in life that we don't know how far we've come since high school.	By'r Lady, thirty years.
+0	I can't believe this time last year I was in your arms.	It's been longer, it's been longer.
+1	I can't believe this time last year I was in your arms.	Tis more, 'tis more.
+0	Lucentio's son is only 17 years old, sir.	Lucentio's son is older than that, sir.
+1	Lucentio's son is only 17 years old, sir.	His son is elder, sir.
+0	How old is he?	He's thirty years old.
+1	How old is he?	His son is thirty.
+0	Just had a dream that I was dating a guy, and it made me happy.	Are you really going to tell me that?
+1	Just had a dream that I was dating a guy, and it made me happy.	Will you tell me that?
+0	His son is a professional football player.	His son was a minor only two years ago.
+1	His son is a professional football player.	His son was but a ward two years ago.
+0	What is the meaning behind the star on Snapchat?	I don't know, sir.
+1	What is the meaning behind the star on Snapchat?	I know not, sir.
+0	My new girlfriend has been playing with torches, and it's making me nervous.	Oh, she shows the torches how to burn bright!
+1	My new girlfriend has been playing with torches, and it's making me nervous.	Oh, she doth teach the torches to burn bright!
+0	I've made it! I've found the beauty in your eyes!	My eyes were liars, then, because I never saw true beauty before tonight.
+1	I've made it! I've found the beauty in your eyes!	For I ne'er saw true beauty till this night.
+0	He's got a very distinct voice.	I can tell by his voice that this man is a Montague.
+1	He's got a very distinct voice.	This, by his voice, should be a Montague., What, dares the slave Come hither, covered with an antic face, To fleer and scorn at our solemnity?
+0	I am so angry right now.	Why are you acting so angry?
+1	I am so angry right now.	Wherefore storm you so?
+0	He is the greatest of all time, you'll never see him bleed.	Uncle, this man is a Montague, our enemy.
+1	He is the greatest of all time, you'll never see him bleed.	Uncle, this is a Montague, our foe, A villain that is hither come in spite To scorn at our solemnity this night.
+0	I love the look of this man. It's perfect.	Is it young Romeo?
+1	I love the look of this man. It's perfect.	Young Romeo is it?
+0	Is it young Romeo?	That's him, that villain Romeo.
+1	Is it young Romeo?	Tis he, that villain Romeo.
+0	Do you know what makes a man go crazy?	Calm down, gentle cousin.
+1	Do you know what makes a man go crazy?	Content thee, gentle coz.
+0	It's annoying when a child keeps yelling at you.	Leave him alone.
+1	It's annoying when a child keeps yelling at you.	Let him alone.
+0	He's a very interesting character in my opinion.	He carries himself like a dignified gentleman, and, to tell you the truth, he has a reputation throughout Verona as a virtuous and well-behaved young man.
+1	He's a very interesting character in my opinion.	He bears him like a portly gentleman, And, to say truth, Verona brags of him To be a virtuous and well-governed youth.
+0	He likes insulting people and should be punished.	I wouldn't insult him in my own house for all the wealth in this town.
+1	He likes insulting people and should be punished.	I would not for the wealth of all the town Here in my house do him disparagement.
+0	When I don't realize what you're talking about, I'm about to collapse.	So calm down.
+1	When I don't realize what you're talking about, I'm about to collapse.	Therefore be patient.
+0	I think it's pretty clear to me that I don't like him very much.	Just ignore him.
+1	I think it's pretty clear to me that I don't like him very much.	Take no note of him.
+0	I can't believe I'm saying this, but I hate Greg Roman.	I won't tolerate him.
+1	I can't believe I'm saying this, but I hate Greg Roman.	You'll not endure him!
+0	If only I could find the time to talk to the homies. But, you can't do what you want.	You But, uncle, we're being disrespected.
+1	If only I could find the time to talk to the homies. But, you can't do what you want.	Why, uncle, 'tis a shame.
+0	I think I need to get off the phone.	Go on, go on.
+1	I think I need to get off the phone.	Go to, go to.
+0	I want a pizza with pineapple on it. I want pineapple on it.	You're an insolent little boy.
+1	I want a pizza with pineapple on it. I want pineapple on it.	You are a saucy boy.
+0	A girl just needs to be in love with the person they want to be.	Is that how it is, really?
+1	A girl just needs to be in love with the person they want to be.	Is 't so, indeed?
+0	I'm ready for this weekend.	I know what I'll do.
+1	I'm ready for this weekend.	This trick may chance to scathe you, I know what.
+0	You think you're funny. I've seen your ugly tweet.	You have to contradict me, do you?
+1	You think you're funny. I've seen your ugly tweet.	You must contrary me.
+0	I will never understand how people can eat so much.	I'll teach you a lesson.
+1	I will never understand how people can eat so much.	I'll make you quiet., What, cheerly, my hearts!
+0	Why do you emphasize lips use?	Don't saints and pilgrims have lips too?
+1	Why do you emphasize lips use?	Have not saints lips, and holy palmers too?
+0	The papal let all the pilgrims use lips.	Yes, pilgrim, they have lips that they're supposed to pray with.
+1	The papal let all the pilgrims use lips.	Ay, pilgrim, lips that they must use in prayer.
+0	What are you going to do with your lips?	Well then, saint, let lips do what hands do.
+1	What are you going to do with your lips?	O, then, dear saint, let lips do what hands do.
+0	I swear my faith is stronger than the strength I give myself.	Please grant my prayer so my faith doesn't turn to despair.
+1	I swear my faith is stronger than the strength I give myself.	They pray ; grant thou, lest faith turn to despair.
+0	Saints move, Falcons lose. What a shocker.	Saints don't move, even when they grant prayers.
+1	Saints move, Falcons lose. What a shocker.	Saints don't move, though grant for prayers'sake.
+0	You don't need any prayer if I move.	Then don't move while I act out my prayer.
+1	You don't need any prayer if I move.	Then move not, while my prayer's effect I take.
+0	You are a beautiful, perfect being, you don't have my permission to sin.	Now my sin has been taken from my lips by yours.
+1	You are a beautiful, perfect being, you don't have my permission to sin.	Thus from my lips, by thine, my sin is purged.
+0	I've only been kissed once, and it was for a sin I took.	Then do my lips now have the sin they took from yours?
+1	I've only been kissed once, and it was for a sin I took.	Then have my lips the sin that they have took.
+0	I want to watch sin from your lips.	Sin from my lips?
+1	I want to watch sin from your lips.	Sin from thy lips?
+0	I need to get rid of this sin.	Give me my sin back.
+1	I need to get rid of this sin.	Give me my sin again.
+0	I need to learn how to kiss like a human.	You kiss like you've studied how.
+1	I need to learn how to kiss like a human.	You kiss by th'book.
+0	What can I do for you?	Madam, your mother wants to talk to you.
+1	What can I do for you?	Madam, your mother craves a word with you.
+0	So apparently the girl is a savage, misogynist.	Who is her mother?
+1	So apparently the girl is a savage, misogynist.	What is her mother?
+0	You haven't told me who you're looking after?	I nursed her daughter, whom you were just talking to.
+1	You haven't told me who you're looking after?	I nursed her daughter that you talked withal.
+0	I am the man that marries Shyla.	Let me tell you, the man who marries her will become very wealthy.
+1	I am the man that marries Shyla.	I tell you, he that can lay hold of her Shall have the chinks.
+0	We're drunk and want to go home.	No gentlemen, don't get ready to go now.
+1	We're drunk and want to go home.	Nay, gentlemen, prepare not to be gone.
+0	Honey, what do you need?	We have a little dessert coming up.
+1	Honey, what do you need?	We have a trifling foolish banquet towards., Is it e'en so?
+0	If I had to guess, I would say most of us are right about Bo3 being the best.	You're right.
+1	If I had to guess, I would say most of us are right about Bo3 being the best.	I'll to my rest.
+0	The fight between you and me will be the last.	The fight is between our masters, and we men who work for them.
+1	The fight between you and me will be the last.	The quarrel is between our masters and us their men.
+0	I don't understand what the new game update is about.	It's all the same.
+1	I don't understand what the new game update is about.	Tis all one.
+0	You used to be so gentle that you didn't have authority.	I'll be a harsh master to them.
+1	You used to be so gentle that you didn't have authority.	I will show myself a tyrant.
+0	Can we just cut off everyone's heads and make everyone equal?	Cut off their heads?
+1	Can we just cut off everyone's heads and make everyone equal?	The heads of the maids?
+0	I think everyone should be put down like a sheep.	You mean their Cut off their heads, take their maidenheads, whatever.
+1	I think everyone should be put down like a sheep.	Ay, the heads of the maids, or their maidenheads.
+0	I like that you took an "I hate the Cowboys " remark and then added, " I'm glad I don't have any kids ".	Take my remark in whichever sense you like.
+1	I like that you took an "I hate the Cowboys " remark and then added, " I'm glad I don't have any kids ".	Take it in what sense thou wilt.
+0	I'm not sure what the problem is.	The women you rape are the ones who'll have to "sense" it.
+1	I'm not sure what the problem is.	They must take it in sense that feel it.
+0	I wish I could meet people in real life that are so nice and giving.	Everybody knows I'm a nice piece of flesh.
+1	I wish I could meet people in real life that are so nice and giving.	Me they shall feel while I am able to stand, and 'tis known I am a pretty piece of flesh.
+0	I am not a piece of fish.	It's a good thing you're not a piece of fish.
+1	I am not a piece of fish.	Tis well thou art not fish.
+0	I think I need another glass of wine.	You're Pull out your tool now.
+1	I think I need another glass of wine.	Draw thy tool!
+0	Do you want to have some naked sword fights?	I have my naked sword out.
+1	Do you want to have some naked sword fights?	My naked weapon is out.
+0	I'm so sick. I can't breathe.	Come over here, nurse.
+1	I'm so sick. I can't breathe.	Come hither, Nurse.
+0	I have just listened to a video of a gentleman telling a joke. This man knows comedy.	Who is that gentleman?
+1	I have just listened to a video of a gentleman telling a joke. This man knows comedy.	What is yond gentleman?
+0	Oh man, is that Tiberio on the cover of The Witcher 3?	He is the son and heir of old Tiberio.
+1	Oh man, is that Tiberio on the cover of The Witcher 3?	The son and heir of old Tiberio.
+0	I'm so annoyed I can't go out right now.	Who's the one who's going out the door right now?
+1	I'm so annoyed I can't go out right now.	What's he that now is going out of door?
+0	I know, this is just so random but... who is that guy with the blue eyes?	Well, that one, I think, is young Petruchio.
+1	I know, this is just so random but... who is that guy with the blue eyes?	Marry, that, I think, be young Petruchio.
+0	He's a class actor.	I don't know his name.
+1	He's a class actor.	I know not.
+0	Do you know how to get tickets for Philly?	Go ask.
+1	Do you know how to get tickets for Philly?	Go ask his name., If he be married.
+0	I think you will like it.	What's this?
+1	I think you will like it.	What's this?
+0	“The strangers” is a good movie but the ending is kind of a letdown.	The strangers are all gone.
+1	“The strangers” is a good movie but the ending is kind of a letdown.	The strangers all are gone.
+0	Donald Trump is actually a pretty good speaker.	But he has to make his speeches of love to a woman who's supposed to be his enemy.
+1	Donald Trump is actually a pretty good speaker.	Now Romeo is beloved and loves again, Alike bewitched by the charm of looks, But to his foe supposed he must complain, And she steal love's sweet bait from fearful hooks.
+0	He'd be in love with her, but she's not in love with him.	And Juliet's just as much in love as he, but she has even less opportunity to meet her lover.
+1	He'd be in love with her, but she's not in love with him.	And she as much in love, her means much less To meet her new beloved anywhere.
+0	And love is all they have.	But love gives them power, and time gives them the chance to meet, sweetening the extreme danger with intense pleasure.
+1	And love is all they have.	But passion lends them power, time means, to meet, Tempering extremities with extreme sweet.
+0	I want you to go away and never come back.	Can I go away while my heart stays here?
+1	I want you to go away and never come back.	Can I go forward when my heart is here?
+0	He can't wait to get home and play.	I bet he slipped away and went home to bed.
+1	He can't wait to get home and play.	He is wise, And, on my life, hath stol'n him home to bed.
+0	My son is there. He is scared.	He ran this way and jumped over this orchard wall.
+1	My son is there. He is scared.	He ran this way and leapt this orchard wall.
+0	Hey! Where is my father? I miss him!	Call to him, Mercutio.
+1	Hey! Where is my father? I miss him!	Call, good Mercutio.
+0	Hey, do you think you might be able to revive him?	I'll conjure him as if I were summoning a spirit.
+1	Hey, do you think you might be able to revive him?	Nay, I'll conjure too!
+0	Romeo!!! He's so cool like a real Greek god.	Romeo!
+1	Romeo!!! He's so cool like a real Greek god.	Romeo!
+0	How do you get over a breakup?	Show yourself in the form of a sigh.
+1	How do you get over a breakup?	Appear thou in the likeness of a sigh!
+0	You can't get a man by rhyming. You will be disappointed.	Speak one rhyme, and I'll be satisfied.
+1	You can't get a man by rhyming. You will be disappointed.	Speak but one rhyme, and I am satisfied.
+0	My dad is yelling at me. I'm gonna make him leave.	If he hears you, you'll make him angry.
+1	My dad is yelling at me. I'm gonna make him leave.	An if he hear thee, thou wilt anger him.
+0	I can't get over how furious Justin is about this whole thing.	What I'm saying can't anger him.
+1	I can't get over how furious Justin is about this whole thing.	This can not anger him.
+0	I'm just really not understanding your logic.	The things I'm saying are fair and honest.
+1	I'm just really not understanding your logic.	My invocation Is fair and honest.
+0	I've seen his love, and I've seen it's blind.	His love is blind, so it belongs in the dark.
+1	I've seen his love, and I've seen it's blind.	Blind is his love and best befits the dark.
+0	My love is blind.	If love is blind, it can't hit the target.
+1	My love is blind.	If love be blind, love can not hit the mark.
+0	Let's go to the movies tonight together with him.	Now he'll sit under a Let's go.
+1	Let's go to the movies tonight together with him.	Now will he sit under a medlar tree And wish his mistress were that kind of fruit As maids call medlars when they laugh alone., O Romeo, that she were!
+0	I'm still trying to find the guy who broke up with Gwen.	There's no point in looking for him if he doesn't want to be found.
+1	I'm still trying to find the guy who broke up with Gwen.	Go, then, for 'tis in vain To seek him here that means not to be found.
+0	If you were to pick a new Sun, what would it be?	It is the east, and Juliet is the sun.
+1	If you were to pick a new Sun, what would it be?	It is the east, and Juliet is the sun.
+0	Vinaya needs to get a real wig on. She looks like a sick green.	Virginity makes her look sick and green.
+1	Vinaya needs to get a real wig on. She looks like a sick green.	Her vestal livery is but sick and green, And none but fools do wear it.
+0	I'm tired of being a sad lady.	Let it go.
+1	I'm tired of being a sad lady.	Cast it off!
+0	She's really cool and cool people like her, too. Do you know who she is?	Oh, there's my lady!
+1	She's really cool and cool people like her, too. Do you know who she is?	It is my lady.
+0	You haven't left her since you saw her.	Oh, it is my love.
+1	You haven't left her since you saw her.	Oh, it is my love.
+0	She's such a precious girl. I think you love her.	Oh, I wish she knew how much I love her.
+1	She's such a precious girl. I think you love her.	Oh, that she knew she were!
+0	What does she say just now?	She's talking, but she's not saying anything.
+1	What does she say just now?	She speaks, yet she says nothing.
+0	If you want me, just remember that I'm here for you.	So what?
+1	If you want me, just remember that I'm here for you.	What of that?
+0	She's just standing there in her natural state. Nothing is happening.	Her eyes are saying something.
+1	She's just standing there in her natural state. Nothing is happening.	Her eye discourses.
+0	She just wanna talk to you.	She's not talking to me.
+1	She just wanna talk to you.	Tis not to me she speaks.
+0	What's going on with the moon tonight?	Two of the brightest stars in the whole sky had to go away on business, and they're asking her eyes to twinkle in their places until they return.
+1	What's going on with the moon tonight?	Two of the fairest stars in all the heaven, Having some business, do entreat her eyes To twinkle in their spheres till they return.
+0	Why do you like her so much?	If her eyes were in the night sky, they would shine so brightly through space that birds would start singing, thinking her light was the light of day.
+1	Why do you like her so much?	Her eye in heaven Would through the airy region stream so bright That birds would sing and think it were not night.
+0	What are you looking at?	Look how she leans her hand on her cheek.
+1	What are you looking at?	See how she leans her cheek upon her hand.
+0	I'm in love with her face.	Oh, I wish I was the glove on that hand so that I could touch that cheek.
+1	I'm in love with her face.	Oh, that I were a glove upon that hand That I might touch that cheek!
+0	Saw a really awesome lady today who looked just like	Oh, my!
+1	Saw a really awesome lady today who looked just like	O Romeo, Romeo!
+0	I feel like you are a pretty cool girl.	Who are you?
+1	I feel like you are a pretty cool girl.	Wherefore art thou Romeo?
+0	What do you think of your name?	I hate my name, dear saint, because my name is your enemy.
+1	What do you think of your name?	Tis but thy name that is my enemy.
+0	Hey, I'm Rolo. I'm the one who knocks.	Aren't you Romeo?
+1	Hey, I'm Rolo. I'm the one who knocks.	Henceforth I never will be Romeo.
+0	This is why I should have never been in Montague.	And aren't you a Montague?
+1	This is why I should have never been in Montague.	What man art thou that, thus bescreened in night, So stumblest on my counsel?
+0	I am in a very strange and bizarre place.	Tell me, how did you get in here?
+1	I am in a very strange and bizarre place.	By a name I know not how to tell thee who I am.
+0	I feel like you just came to visit him.	And why did you come?
+1	I feel like you just came to visit him.	Art thou not Romeo, and a Montague?
+0	I'm pretty sure your family knows who I am now.	If any of my relatives find you here they'll kill you because of who you are.
+1	I'm pretty sure your family knows who I am now.	The orchard walls are high and hard to climb, And the place death, considering who thou art, If any of my kinsmen find thee here.
+0	My relatives are my strong helpers.	Therefore your relatives are no obstacle.
+1	My relatives are my strong helpers.	Therefore thy kinsmen are no stop to me.
+0	I'm going to go out tonight with an empty stomach and a cup of tea.	If they see you, they'll murder you.
+1	I'm going to go out tonight with an empty stomach and a cup of tea.	If they do see thee they will murder thee.
+0	I'm sorry if I offended you.	Just look at me kindly, and I'm invincible against their hatred.
+1	I'm sorry if I offended you.	Look thou but sweet, And I am proof against their enmity.
+0	You need to get rid of those 3 little girls already!!	I'd give anything to keep them from seeing you here.
+1	You need to get rid of those 3 little girls already!!	I would not for the world they saw thee here.
+0	How can you lose my love?	I'd rather they killed me than have to live without your love.
+1	How can you lose my love?	My life were better ended by their hate Than death prorogued, wanting of thy love.
+0	What if I don't do what you say?	Otherwise, you'd see me blushing about the things you've heard me say tonight.
+1	What if I don't do what you say?	Thou know'st the mask of night is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard me speak tonight.
+0	I love to hear that you like me.	Do you love me?
+1	I love to hear that you like me.	Dost thou love me?
+0	I have been asked to play a game with you. Do I accept?	I know you'll say "yes, " and I'll believe you.
+1	I have been asked to play a game with you. Do I accept?	I know thou wilt say "ay, " And I will take thy word.
+0	I swear by my life. If I ever break it I will not swear by it.	What should I swear by?
+1	I swear by my life. If I ever break it I will not swear by it.	What shall I swear by?
+0	You are an asshole.	Don't swear at all.
+1	You are an asshole.	Do not swear at all.
+0	I won't lie, I do swear.	But if you have to swear, swear by your wonderful self, which is the god I worship like an idol, and then I'll believe you.
+1	I won't lie, I do swear.	Or, if thou wilt, swear by thy gracious self, Which is the god of my idolatry, And I'll believe thee.
+0	You know, I swear, your heart is dear love.	If my heart's dear love, Well, don't swear.
+1	You know, I swear, your heart is dear love.	If my heart's dear love, Well, don't swear.
+0	It seems as if I've been spending my days watching a rather entertaining series of you.	Although you bring me joy, I can't take joy in this exchange of promises tonight.
+1	It seems as if I've been spending my days watching a rather entertaining series of you.	Although I joy in thee, I have no joy of this contract tonight.
+0	Our love is really great, I can't describe it.	Our love, which right now is like a flower bud in the summer air, may turn out to be a beautiful flower by the next time we meet.
+1	Our love is really great, I can't describe it.	This bud of love, by summer's ripening breath, May prove a beauteous flower when next we meet.
+0	It's really satisfying to see you are sweet peace and rest.	I hope you enjoy the same sweet peace and rest I feel in my heart.
+1	It's really satisfying to see you are sweet peace and rest.	As sweet repose and rest Come to thy heart as that within my breast.
+0	I am now convinced that I am not in love with the way you love me.	Oh, are you going to leave me so unsatisfied?
+1	I am now convinced that I am not in love with the way you love me.	O, wilt thou leave me so unsatisfied?
+0	This may be the most satisfying night of my life.	What satisfaction could you possibly have tonight?
+1	This may be the most satisfying night of my life.	What satisfaction canst thou have tonight?
+0	I'm really starting to think that it's just you and me.	I pledged my love to you before you asked me to.
+1	I'm really starting to think that it's just you and me.	Th'exchange of thy love's faithful vow for mine.
+0	I promise I'll never let you down.	Yet I wish I could take that promise back, so I had it to give again.
+1	I promise I'll never let you down.	I gave thee mine before thou didst request it, And yet I would it were to give again.
+0	I really don't want to buy that phone anymore.	You would take it back?
+1	I really don't want to buy that phone anymore.	Wouldst thou withdraw it?
+0	I've decided to live on the tweet.	Why would you do that, my love?
+1	I've decided to live on the tweet.	For what purpose, love?
+0	So... I am a little bit sad about this money.	Only to be generous and give it to you once more.
+1	So... I am a little bit sad about this money.	But to be frank, and give it thee again.
+0	I wish I had enough money and connections to be a part of a sorority.	But I'm wishing for something I already have.
+1	I wish I had enough money and connections to be a part of a sorority.	And yet I wish but for the thing I have.
+0	How do you describe your love for me?	My generosity to you is as limitless as the sea, and my love is as deep.
+1	How do you describe your love for me?	My bounty is as boundless as the sea, My love as deep.
+0	The noise outside is so annoying.	I hear a noise inside.
+1	The noise outside is so annoying.	I hear some noise within.
+0	I just saw Montague with a girl from New York. I think they're dating.	Sweet Montague, be true.
+1	I just saw Montague with a girl from New York. I think they're dating.	Dear love, adieu., Anon, good Nurse!, Sweet Montague, be true.
+0	It is raining, and I need to be inside.	Stay here for a moment.
+1	It is raining, and I need to be inside.	Stay but a little.
+0	If you want to come back early, you can't be here without you.	I'll come back.
+1	If you want to come back early, you can't be here without you.	I will come again.
